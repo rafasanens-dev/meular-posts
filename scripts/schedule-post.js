@@ -9,12 +9,13 @@
  *
  * Uso:
  *   node scripts/schedule-post.js \
- *     --property-id <slug>       ex: komaki-ikenouchi
- *     --slides-dir  <path>       pasta com arquivos *-ig.jpg
- *     --caption-file <path>      arquivo legenda.md ou copy.md
+ *     --property-id     <slug>   ex: komaki-ikenouchi
+ *     --slides-dir      <path>   pasta com arquivos *-ig.jpg
+ *     --caption-file    <path>   arquivo legenda.md ou copy.md
+ *     --property-folder <path>   pasta da casa em properties/ (para mover para Casas Publicadas)
  */
 
-import { readFileSync, writeFileSync, copyFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, copyFileSync, mkdirSync, readdirSync, existsSync, renameSync } from 'node:fs';
 import { resolve, dirname, join, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execSync } from 'node:child_process';
@@ -30,11 +31,12 @@ function getArg(name) {
   return i !== -1 ? args[i + 1] : null;
 }
 
-const propertyId  = getArg('--property-id');
-const slidesDirRaw = getArg('--slides-dir');
-const captionFile = getArg('--caption-file');
+const propertyId     = getArg('--property-id');
+const slidesDirRaw   = getArg('--slides-dir');
+const captionFile    = getArg('--caption-file');
+const propertyFolder = getArg('--property-folder'); // opcional
 
-if (!propertyId)  throw new Error('--property-id é obrigatório (ex: komaki-ikenouchi)');
+if (!propertyId)   throw new Error('--property-id é obrigatório (ex: komaki-ikenouchi)');
 if (!slidesDirRaw) throw new Error('--slides-dir é obrigatório');
 if (!captionFile)  throw new Error('--caption-file é obrigatório');
 
@@ -114,7 +116,20 @@ addToQueue(queue, {
 });
 writeFileSync(queuePath, JSON.stringify(queue, null, 2));
 
-// ── 7. Git push ───────────────────────────────────────────────
+// ── 7. Mover pasta da propriedade para Casas Publicadas ───────
+if (propertyFolder) {
+  const resolvedFolder = resolve(propertyFolder);
+  if (existsSync(resolvedFolder)) {
+    const folderName = basename(resolvedFolder);
+    const publishedDir = join(ROOT, 'properties', 'Casas Publicadas', folderName);
+    renameSync(resolvedFolder, publishedDir);
+    console.log(`\n📁 Pasta movida para: properties/Casas Publicadas/${folderName}`);
+  } else {
+    console.warn(`\n⚠️  Pasta não encontrada, ignorando: ${propertyFolder}`);
+  }
+}
+
+// ── 8. Git push ───────────────────────────────────────────────
 console.log('\n🚀 Fazendo git push...');
 try {
   execSync('git add .', { cwd: ROOT, stdio: 'inherit' });

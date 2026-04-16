@@ -34,12 +34,15 @@ Paula Publica executes this step. She runs the automated scheduling pipeline:
    - `squads/imoveis-instagram/output/legenda.md`
    - `squads/imoveis-instagram/output/copy.md`
 
-5. **Executar o script de agendamento:**
+5. **Determinar caminho da pasta da propriedade** — ler `property-focus.md` para obter o caminho completo em `properties/` (campo **Property Folder**)
+
+6. **Executar o script de agendamento:**
    ```
    node scripts/schedule-post.js \
      --property-id {property-id} \
      --slides-dir squads/imoveis-instagram/output/{run-id}/slides \
-     --caption-file {caminho-da-legenda}
+     --caption-file {caminho-da-legenda} \
+     --property-folder "{caminho-completo-da-pasta-em-properties}"
    ```
 
 6. **Reportar resultado** — mostrar ao usuário a data/hora de publicação agendada
@@ -82,5 +85,6 @@ Reject and report error if ANY are true:
 - [ ] property-id é um slug limpo (sem caracteres especiais, só letras, números e hífens)
 - [ ] Slides copiados corretamente para posts/{property-id}/
 - [ ] scheduled-posts.json atualizado com status "pending"
+- [ ] Pasta da propriedade movida para properties/Casas Publicadas/
 - [ ] git push executado com sucesso
 - [ ] Data de publicação reportada ao usuário
