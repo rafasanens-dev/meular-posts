@@ -22,22 +22,6 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Verificar secrets
-        env:
-          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
-        run: |
-          if [ -z "$INSTAGRAM_ACCESS_TOKEN" ]; then
-            echo "❌ INSTAGRAM_ACCESS_TOKEN está VAZIO"
-          else
-            echo "✅ INSTAGRAM_ACCESS_TOKEN está definido (${#INSTAGRAM_ACCESS_TOKEN} caracteres)"
-          fi
-          if [ -z "$INSTAGRAM_USER_ID" ]; then
-            echo "❌ INSTAGRAM_USER_ID está VAZIO"
-          else
-            echo "✅ INSTAGRAM_USER_ID está definido"
-          fi
-
       - name: Publicar posts agendados
         env:
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
