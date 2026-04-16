@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Sala de Estar
+    - generic [ref=e9]: SALA DE ESTAR
+    - generic [ref=e10]:
+      - text: Ampla e luminosa — piso novo, teto alto
+      - text: e luz natural o dia todo.

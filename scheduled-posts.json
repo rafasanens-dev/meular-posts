@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "komaki-ikenouchi",
+      "scheduledAt": "2026-04-16T03:00:00Z",
+      "caption": "Casa nova em Komaki: 3 vagas, 379m² de terreno e escola a 11min a pé! 🏡\n\nEm Ikenouchi, Komaki-shi, esta casa nova entrega tudo que a família precisa:\nsala ampla e integrada, cozinha moderna com fogão 3 bocas, ofurô completo\ne um terreno de 379m² com espaço de sobra para crescer.\n\n🏠 Casa Nova · 4LDK · 95m² construídos\n🟫 379m² de terreno\n📍 Komaki-shi, Aichi — Ikenouchi\n💴 ¥31.900.000\na partir de ¥99.000/mês\n\n💛 Gostou dessa casa? Entre em contato hoje mesmo pelo número abaixo ou comente \"GOSTEI\" para mais informações sobre essa e outras disponíveis na região!\n📲 Fale com a gente pelo WhatsApp: +81 90-9922-1830 (Rafael)\n\n#meularjp #imoveisnojapo #casanojapo #brasileirosnojapo #vivernojapo",
+      "slides": [
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-01.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-02.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-03.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-04.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-05.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-06.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-07.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-08.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-09.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/komaki-ikenouchi/slide-10.jpg"
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "nagoya-minato",
+      "scheduledAt": "2026-04-19T10:00:00Z",
+      "caption": "Casa nova em Nagoya: 4 vagas, 230m² de terreno e Walk-in Closet! 🏡\n\nNo bairro de Minato-ku, esta casa nova tem tudo que a sua família precisa: sala integrada espaçosa, cozinha moderna com bancada americana, ofurô completo e um terreno de 230m² com espaço de sobra para área gourmet e jardim.\n\n🏠 Casa Nova · 4LDK · 103m² construídos\n🌿 230m² de terreno\n📍 Nagoya, Aichi — Minato-ku\n💴 ¥36,900,000 (parcela a partir de ¥114.500/mês)\n\n💛 Gostou dessa casa? Entre em contato hoje mesmo pelo número abaixo ou comente \"GOSTEI\" para mais informações sobre essa e outras disponíveis na região!\n📲 Fale com a gente pelo WhatsApp: +81 90-9922-1830 (Rafael)\n\n#meularjp #imoveisnojapo #casanojapo #nagoya #brasileirosnojapo",
+      "slides": [
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-01.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-02.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-03.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-04.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-05.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-06.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-07.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-08.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-09.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nagoya-minato/slide-10.jpg"
+      ],
+      "status": "pending"
+    }
+  ]
+}

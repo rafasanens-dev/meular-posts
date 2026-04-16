@@ -1,0 +1,336 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Ftheagencyre%2Fp%2FDXAAwcsGsHL%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e37]:
+          - generic [ref=e44]:
+            - list [ref=e46]:
+              - listitem [ref=e47]
+              - listitem [ref=e48]:
+                - generic [ref=e53] [cursor=pointer]:
+                  - button [ref=e54]:
+                    - img [ref=e56]
+                  - button [ref=e59]:
+                    - img [ref=e61]
+              - listitem [ref=e63]:
+                - img [ref=e70]
+            - button [ref=e72] [cursor=pointer]
+        - generic [ref=e75]:
+          - generic [ref=e77]:
+            - generic [ref=e79]:
+              - link "Foto do perfil de iambillyrose" [ref=e80]:
+                - img "Foto do perfil de iambillyrose" [ref=e81]
+              - link "Foto do perfil de theagencyre" [ref=e84]:
+                - img "Foto do perfil de theagencyre" [ref=e85]
+            - generic [ref=e90]:
+              - link "theagencyre" [ref=e92] [cursor=pointer]:
+                - /url: /theagencyre/
+                - generic [ref=e95]: theagencyre
+              - text: e
+              - link "iambillyrose" [ref=e97] [cursor=pointer]:
+                - /url: /iambillyrose/
+                - generic [ref=e100]: iambillyrose
+            - button "Mais opções" [ref=e103] [cursor=pointer]:
+              - img "Mais opções" [ref=e106]
+          - separator [ref=e110]
+          - generic [ref=e112]:
+            - generic [ref=e114]:
+              - link "Foto do perfil de theagencyre" [ref=e116] [cursor=pointer]:
+                - /url: /theagencyre/
+                - img "Foto do perfil de theagencyre" [ref=e117]
+              - generic [ref=e121]:
+                - generic [ref=e122]:
+                  - link "theagencyre Verificado" [ref=e123] [cursor=pointer]:
+                    - /url: /theagencyre/
+                    - generic [ref=e125]:
+                      - generic [ref=e126]: theagencyre
+                      - img "Verificado" [ref=e128]
+                  - time [ref=e131]: 1 d
+                - generic [ref=e132]:
+                  - text: This contemporary Venice residence, meticulously refined since its 2018 construction, seamlessly integrates indoor and outdoor living with floor-to-ceiling Fleetwood pocket doors that flood the interior with natural sunlight. A gourmet kitchen with Miele appliances and sleek Italian cabinetry anchors the main level, while a custom Porro bookshelf enhances the living room.
+                  - text: Upstairs, three spacious bedroom suites include a primary retreat with a private terrace, Roman clay fireplace, spa-inspired bath, and walk-in closet. A 54-foot saltwater lap pool and spa, dining pavilion, fire-pit lounge, and rooftop deck define the outdoor space, all enclosed by mature hedges for maximum privacy.
+                  - text: 1531 Louella Drive
+                  - text: 📍Venice, CA
+                  - text: Listed for $4,200,000 by
+                  - link "@iambillyrose" [ref=e133] [cursor=pointer]:
+                    - /url: /iambillyrose/
+                  - text: 3 Beds, 4 Baths | 3,209 sqft
+                  - link "#theagencyre" [ref=e134] [cursor=pointer]:
+                    - /url: /explore/tags/theagencyre/
+                  - link "#luxuryrealestate" [ref=e135] [cursor=pointer]:
+                    - /url: /explore/tags/luxuryrealestate/
+                  - link "#luxuryhomes" [ref=e136] [cursor=pointer]:
+                    - /url: /explore/tags/luxuryhomes/
+                  - link "#luxuryListings" [ref=e137] [cursor=pointer]:
+                    - /url: /explore/tags/luxurylistings/
+                  - link "#interiors" [ref=e138] [cursor=pointer]:
+                    - /url: /explore/tags/interiors/
+            - button "Carregar mais comentários" [ref=e140] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e142]
+            - generic [ref=e144]:
+              - generic [ref=e147]:
+                - link "Foto do perfil de commizah" [ref=e150] [cursor=pointer]:
+                  - /url: /commizah/
+                  - img "Foto do perfil de commizah" [ref=e151]
+                - generic [ref=e153]:
+                  - generic [ref=e155]:
+                    - generic [ref=e156]:
+                      - link "commizah" [ref=e158] [cursor=pointer]:
+                        - /url: /commizah/
+                        - generic [ref=e161]: commizah
+                      - link "16 h" [ref=e163] [cursor=pointer]:
+                        - /url: /p/DXAAwcsGsHL/c/17881613283394232/
+                        - time [ref=e164]: 16 h
+                    - generic [ref=e166]: ❤️🔥Sold . 🇶🇦🇿🇦🇿🇼🇪🇦😍
+                  - generic [ref=e167]:
+                    - button "Curtir" [ref=e168] [cursor=pointer]:
+                      - generic [ref=e169]: Curtir
+                    - button "Responder" [ref=e170] [cursor=pointer]:
+                      - generic [ref=e172]: Responder
+              - generic [ref=e175]:
+                - link "Foto do perfil de johnstanaland" [ref=e178] [cursor=pointer]:
+                  - /url: /johnstanaland/
+                  - img "Foto do perfil de johnstanaland" [ref=e179]
+                - generic [ref=e181]:
+                  - generic [ref=e183]:
+                    - generic [ref=e184]:
+                      - link "johnstanaland Verificado" [ref=e186] [cursor=pointer]:
+                        - /url: /johnstanaland/
+                        - generic [ref=e188]:
+                          - generic [ref=e189]: johnstanaland
+                          - img "Verificado" [ref=e191]
+                      - link "1 d" [ref=e194] [cursor=pointer]:
+                        - /url: /p/DXAAwcsGsHL/c/18111640954744767/
+                        - time [ref=e195]: 1 d
+                    - generic [ref=e197]: 🙌🔥
+                  - generic [ref=e198]:
+                    - button "Curtir" [ref=e199] [cursor=pointer]:
+                      - generic [ref=e200]: Curtir
+                    - button "Responder" [ref=e201] [cursor=pointer]:
+                      - generic [ref=e203]: Responder
+              - generic [ref=e206]:
+                - link "Foto do perfil de makenziekgreen" [ref=e209] [cursor=pointer]:
+                  - /url: /makenziekgreen/
+                  - img "Foto do perfil de makenziekgreen" [ref=e210]
+                - generic [ref=e212]:
+                  - generic [ref=e214]:
+                    - generic [ref=e215]:
+                      - link "makenziekgreen Verificado" [ref=e217] [cursor=pointer]:
+                        - /url: /makenziekgreen/
+                        - generic [ref=e219]:
+                          - generic [ref=e220]: makenziekgreen
+                          - img "Verificado" [ref=e222]
+                      - link "1 d" [ref=e225] [cursor=pointer]:
+                        - /url: /p/DXAAwcsGsHL/c/18409083847177592/
+                        - time [ref=e226]: 1 d
+                    - generic [ref=e228]: this🔥
+                  - generic [ref=e229]:
+                    - button "Curtir" [ref=e230] [cursor=pointer]:
+                      - generic [ref=e231]: Curtir
+                    - button "Responder" [ref=e232] [cursor=pointer]:
+                      - generic [ref=e234]: Responder
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - button "Curtir" [ref=e240] [cursor=pointer]:
+                  - img "Curtir" [ref=e243]
+                - button "223" [ref=e245] [cursor=pointer]
+                - button "Comentar" [ref=e247] [cursor=pointer]:
+                  - img "Comentar" [ref=e249]
+                - button "3" [ref=e251] [cursor=pointer]
+                - button "Compartilhar" [ref=e252] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e253]
+              - button "Salvar" [ref=e257] [cursor=pointer]:
+                - img "Salvar" [ref=e259]
+            - link "há 1 dia" [ref=e263] [cursor=pointer]:
+              - /url: /theagencyre/p/DXAAwcsGsHL/
+              - time [ref=e265]: há 1 dia
+          - generic [ref=e270]:
+            - link "Entrar" [ref=e271] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Ftheagencyre%2Fp%2FDXAAwcsGsHL%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e273]
+      - generic [ref=e274]:
+        - generic [ref=e276]:
+          - text: Mais posts de
+          - link "theagencyre" [ref=e277] [cursor=pointer]:
+            - /url: /theagencyre/
+        - generic [ref=e280]:
+          - generic [ref=e281]:
+            - link "Showing up as your authentic self begins with the confidence of living in your purpose. Clipe" [ref=e283] [cursor=pointer]:
+              - /url: /theagencyre/reel/DTgQYaAgZmd/
+              - img "Showing up as your authentic self begins with the confidence of living in your purpose." [ref=e286]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Whispers In The Night – Celebrating Our 2025 Chairman Clipe" [ref=e289] [cursor=pointer]:
+              - /url: /theagencyre/reel/DTfxV1skbYt/
+              - img "Whispers In The Night – Celebrating Our 2025 Chairman" [ref=e292]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "This afternoon delivered — scaling smarter, neogiting sharper and thinking global Clipe" [ref=e295] [cursor=pointer]:
+              - /url: /theagencyre/reel/DTee9beDswT/
+              - img "This afternoon delivered — scaling smarter, neogiting sharper and thinking global" [ref=e298]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e300]:
+            - 'link "Perched above the desert in Palm Desert, this $5,600,000 estate feels more like a private retreat than a residence. Set across 18 acres, the compound offers scale, privacy, and uninterrupted panoramic views over the valley and surrounding mountains. What makes it truly unique is how it lives outdoors. A tennis court is seamlessly carved into the desert landscape, blending into its surroundings in a way that feels almost untouched. Paired with resort-style amenities, open-air living spaces, and total seclusion, it creates a setting that’s equal parts escape and experience. Perfect for someone who values space, nature, and the freedom to disconnect without leaving everything behind. Listed at $5,600,000 by @michelleschwartzrealtor @adrienneherkes @theagencyre Would you use this more as a getaway… or a full-time residence? #palmdesert #desert #tennis #offthegrid Carrossel" [ref=e302] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXCFXqVlGW0/
+              - 'img "Perched above the desert in Palm Desert, this $5,600,000 estate feels more like a private retreat than a residence. Set across 18 acres, the compound offers scale, privacy, and uninterrupted panoramic views over the valley and surrounding mountains. What makes it truly unique is how it lives outdoors. A tennis court is seamlessly carved into the desert landscape, blending into its surroundings in a way that feels almost untouched. Paired with resort-style amenities, open-air living spaces, and total seclusion, it creates a setting that’s equal parts escape and experience. Perfect for someone who values space, nature, and the freedom to disconnect without leaving everything behind. Listed at $5,600,000 by @michelleschwartzrealtor @adrienneherkes @theagencyre Would you use this more as a getaway… or a full-time residence? #palmdesert #desert #tennis #offthegrid" [ref=e305]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "The trends demanding our attention now are a little undone, refreshingly rebellious, and dead set on balancing high comfort with filter-free honesty. Discover what’s influencing spaces, style, and mindsets right now. #theagencyre Carrossel" [ref=e308] [cursor=pointer]':
+              - /url: /theagencyre/p/DW97AfkAQve/
+              - 'img "The trends demanding our attention now are a little undone, refreshingly rebellious, and dead set on balancing high comfort with filter-free honesty. Discover what’s influencing spaces, style, and mindsets right now. #theagencyre" [ref=e311]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link [ref=e314] [cursor=pointer]:
+              - /url: /theagencyre/p/DW9TfGWFHv_/
+              - img [ref=e317]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+          - generic [ref=e319]:
+            - 'link "Unparalleled 40 acre sanctuary just 10 minutes from downtown Boulder, Shanidiin Farm blends privacy, sustainability, and understated elegance with sweeping Flatirons views. Thoughtfully designed by Gettliffe Architecture and built by Harrington Stanko, the light filled home features walls of glass, polished concrete floors, and seamless indoor outdoor living. Equipped with geothermal, solar, and radiant heating, it offers luxurious guest suites, a versatile recreation studio with sauna and steam, a 6 car garage, ample water resources, and serene outdoor spaces, creating a truly one of a kind modern retreat. 6686 Jay Road 📍Boulder, CO Listed for $17,500,000 by @marybethemersonofficial of @theagencyboulder 6 Beds, 7 Baths | 11,000 Sqft #theagencyre #luxuryrealestate #luxuryhomes #luxuryListings #interiors Clipe" [ref=e321] [cursor=pointer]':
+              - /url: /theagencyre/reel/DW7WgCLgWKb/
+              - 'img "Unparalleled 40 acre sanctuary just 10 minutes from downtown Boulder, Shanidiin Farm blends privacy, sustainability, and understated elegance with sweeping Flatirons views. Thoughtfully designed by Gettliffe Architecture and built by Harrington Stanko, the light filled home features walls of glass, polished concrete floors, and seamless indoor outdoor living. Equipped with geothermal, solar, and radiant heating, it offers luxurious guest suites, a versatile recreation studio with sauna and steam, a 6 car garage, ample water resources, and serene outdoor spaces, creating a truly one of a kind modern retreat. 6686 Jay Road 📍Boulder, CO Listed for $17,500,000 by @marybethemersonofficial of @theagencyboulder 6 Beds, 7 Baths | 11,000 Sqft #theagencyre #luxuryrealestate #luxuryhomes #luxuryListings #interiors" [ref=e324]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link [ref=e327] [cursor=pointer]:
+              - /url: /theagencyre/reel/DW6o3OcEwAE/
+              - img [ref=e330]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+        - generic [ref=e333]:
+          - link "Ver mais posts" [ref=e335] [cursor=pointer]:
+            - /url: /theagencyre/
+            - generic [ref=e336]: Ver mais posts
+          - separator [ref=e337]
+  - contentinfo [ref=e338]:
+    - generic [ref=e339]:
+      - generic [ref=e341]:
+        - link "Meta" [ref=e343] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e344]: Meta
+        - link "Sobre" [ref=e346] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e347]: Sobre
+        - link "Blog" [ref=e349] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e350]: Blog
+        - link "Carreiras" [ref=e352] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e353]: Carreiras
+        - link "Ajuda" [ref=e355] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e356]: Ajuda
+        - link "API" [ref=e358] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e359]: API
+        - link "Privacidade" [ref=e361] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e362]: Privacidade
+        - link "Termos" [ref=e364] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e365]: Termos
+        - link "Localizações" [ref=e367] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e368]: Localizações
+        - link "Instagram Lite" [ref=e370] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e371]: Instagram Lite
+        - link "Meta AI" [ref=e373] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e374]: Meta AI
+        - link "Threads" [ref=e376] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e377]: Threads
+        - link "Upload de contatos e não usuários" [ref=e379] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e380]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e382] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e383]: Meta Verified
+      - generic [ref=e384]:
+        - generic [ref=e385] [cursor=pointer]:
+          - generic [ref=e386]:
+            - generic [ref=e387]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e390]
+          - combobox "Trocar idioma de exibição" [ref=e392]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e394]: © 2026 Instagram from Meta

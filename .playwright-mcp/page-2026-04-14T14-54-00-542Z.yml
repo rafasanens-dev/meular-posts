@@ -1,0 +1,29 @@
+- generic [active] [ref=e1]:
+  - img "meular.jp" [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e6]: CASA NOVA
+    - generic [ref=e7]:
+      - generic [ref=e8]: Parcelas
+      - generic [ref=e9]: ¥99.000
+      - generic [ref=e10]: "VALOR: ¥31.900.000"
+      - generic [ref=e12]:
+        - text: AICHI-KEN
+        - text: KOMAKI-SHI
+        - text: IKENOUCHI
+  - generic [ref=e13]:
+    - img "Sala" [ref=e15]
+    - img "Cozinha" [ref=e17]
+    - img "Lavabo" [ref=e19]
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - img "Quartos" [ref=e22]
+      - generic [ref=e23]: 4LDK
+    - generic [ref=e25]:
+      - img "Área" [ref=e26]
+      - generic [ref=e27]: 95M²
+    - generic [ref=e29]:
+      - img "Vagas" [ref=e30]
+      - generic [ref=e31]: 3 VAGAS
+    - generic [ref=e33]:
+      - img "Terreno" [ref=e34]
+      - generic [ref=e35]: 379M²

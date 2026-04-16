@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      width: 1080px; height: 1440px; overflow: hidden;
+      font-family: 'Inter', sans-serif;
+      position: relative;
+    }
+
+    /* Azul header bar — transparente sobre a foto */
+    .top-bar {
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 88px;
+      background: rgba(0, 165, 236, 0.55);
+      display: flex; align-items: center;
+      justify-content: space-between;
+      padding: 0 52px;
+      z-index: 10;
+    }
+    .logo { height: 50px; width: auto; filter: brightness(0) invert(1) drop-shadow(0 1px 3px rgba(0,0,0,0.3)); }
+    .handle { font-size: 28px; font-weight: 600; color: #FFFFFF; letter-spacing: 0.02em; text-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+
+    /* Photo area */
+    .photo {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(155deg,
+        #C0D8EC 0%, #94B8D4 15%,
+        #6898BC 30%, #427BA4 46%,
+        #265E8C 60%, #154872 74%,
+        #0C3258 88%, #081E3A 100%
+      );
+      overflow: hidden;
+    }
+    .house-shape {
+      position: absolute;
+      bottom: 0; left: 36px; right: 36px; height: 600px;
+      background: linear-gradient(180deg, #2A4E70 0%, #1A3450 60%, #0C1E30 100%);
+      clip-path: polygon(0% 22%, 7% 22%, 7% 7%, 50% 0%, 93% 7%, 93% 22%, 100% 22%, 100% 100%, 0% 100%);
+      opacity: 0.48;
+    }
+    .photo-gradient {
+      position: absolute; bottom: 0; left: 0; right: 0; height: 220px;
+      background: linear-gradient(0deg, rgba(0,0,0,0.55) 0%, transparent 100%);
+    }
+    /* À VENDA badge on photo */
+    .venda-badge {
+      position: absolute; top: 38px; right: 48px;
+      background: #FFC857; color: #1F2937;
+      font-size: 26px; font-weight: 900;
+      letter-spacing: 0.14em; text-transform: uppercase;
+      padding: 10px 32px; border-radius: 100px;
+    }
+    .photo-city {
+      position: absolute; bottom: 30px; left: 56px;
+      font-size: 48px; font-weight: 900; color: #FFFFFF;
+    }
+
+    /* White info card */
+    .card {
+      flex: 1;
+      background: #FFFFFF;
+      border-top: 5px solid #00A5EC;
+      padding: 32px 56px 36px 56px;
+      display: flex; flex-direction: column; gap: 14px;
+    }
+    .card-type {
+      font-size: 24px; font-weight: 700; color: #6B7280;
+      text-transform: uppercase; letter-spacing: 0.12em;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .type-dot { width: 8px; height: 8px; background: #00A5EC; border-radius: 50%; }
+    .card-title {
+      font-size: 44px; font-weight: 900; color: #1F2937; line-height: 1.15;
+    }
+    .chips {
+      display: flex; gap: 10px; flex-wrap: wrap;
+    }
+    .chip {
+      background: #D9F4FF; border: 1px solid #A8E4FB;
+      border-radius: 8px; padding: 8px 20px;
+      font-size: 26px; font-weight: 700; color: #0077B6;
+    }
+    .price-block { margin-top: 4px; }
+    .price { font-size: 52px; font-weight: 900; color: #00A5EC; letter-spacing: -1px; }
+    .installment {
+      font-size: 26px; font-weight: 500; color: #6B7280;
+      margin-top: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="top-bar">
+    <img class="logo" src="logo-azul.png" alt="Meu Lar JP">
+    <span class="handle">@meular.jp</span>
+  </div>
+  <div class="photo">
+    <div class="house-shape"></div>
+    <div class="photo-gradient"></div>
+    <div class="venda-badge">VENDA</div>
+    <div class="photo-city">Nagoya, Aichi</div>
+  </div>
+  <div class="card">
+    <div class="card-type"><span class="type-dot"></span>Casa Residencial</div>
+    <div class="card-title">3 quartos · varanda · 2 vagas</div>
+    <div class="chips">
+      <span class="chip">🛏 4LDK</span>
+      <span class="chip">🏠 103m²</span>
+      <span class="chip">🚗 4 vagas</span>
+      <span class="chip">🟫 230m² terreno</span>
+      <!-- 5th chip: only when station ≤20 min walking -->
+      <!-- <span class="chip">🚉 8 min Kanayama</span> -->
+    </div>
+    <div class="price-block">
+      <div class="price">¥36,900,000</div>
+      <!-- installment line: show when available, omit when not -->
+      <div class="installment">a partir de ¥114.500/mês</div>
+    </div>
+  </div>
+</body>
+</html>

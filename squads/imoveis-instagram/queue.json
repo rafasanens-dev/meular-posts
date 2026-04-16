@@ -1,0 +1,9 @@
+{
+  "timezone": "Asia/Tokyo",
+  "slots": [
+    { "day": "tuesday",  "hour": 12, "minute": 0 },
+    { "day": "thursday", "hour": 12, "minute": 0 },
+    { "day": "sunday",   "hour": 19, "minute": 0 }
+  ],
+  "scheduled": []
+}

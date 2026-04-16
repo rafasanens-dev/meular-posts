@@ -1,0 +1,284 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fp%2FC-R07wxR8vu%2F%3Figsh%3DMXNpY255Y3J3YXlrZg%253D%253D&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e65]:
+      - generic [ref=e67]:
+        - button [ref=e72]:
+          - generic [ref=e79]:
+            - list [ref=e81]:
+              - listitem [ref=e82]
+              - listitem [ref=e83]:
+                - img [ref=e90]
+              - listitem [ref=e92]:
+                - img [ref=e99]
+            - button [ref=e101] [cursor=pointer]
+        - generic [ref=e104]:
+          - generic [ref=e106]:
+            - button "Foto do perfil de meular.jp" [disabled] [ref=e108]:
+              - link "Foto do perfil de meular.jp" [disabled] [ref=e110] [cursor=pointer]:
+                - img "Foto do perfil de meular.jp" [ref=e111]
+            - generic [ref=e114]:
+              - link "meular.jp" [ref=e118] [cursor=pointer]:
+                - /url: /meular.jp/
+                - generic [ref=e121]: meular.jp
+              - generic [ref=e122]:
+                - generic [ref=e124]: •
+                - button "Seguir" [ref=e125] [cursor=pointer]
+            - button "Mais opções" [ref=e128] [cursor=pointer]:
+              - img "Mais opções" [ref=e131]
+          - separator [ref=e135]
+          - generic [ref=e137]:
+            - generic [ref=e139]:
+              - link "Foto do perfil de meular.jp" [ref=e141] [cursor=pointer]:
+                - /url: /meular.jp/
+                - img "Foto do perfil de meular.jp" [ref=e142]
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - link "meular.jp" [ref=e148] [cursor=pointer]:
+                    - /url: /meular.jp/
+                    - generic [ref=e151]: meular.jp
+                  - time [ref=e153]: 88 sem
+                - generic [ref=e154]:
+                  - text: 🏡 Casa Nova em Aichi-ken Takahama-shi 🏡
+                  - text: "📍 Localização: Aichi-ken Takahama-shi Yoshiki-cho"
+                  - text: "🏠 Valor do Imóvel: ¥33,800,000"
+                  - text: "Parcelar a partir de: 84.700 ~"
+                  - text: 🚘 Garagem para 2 carros
+                  - text: 🏠 Casa 4LDK+3WIC
+                  - text: "✅ Terreno: 170.28m²"
+                  - text: "✅ Área Construída: 107.66m²"
+                  - text: Entre em contato e agende sua consulta gratuita!
+                  - text: ☎️ 090-9922-1830 - Atendimento em Português
+                  - text: ☎️ 090-6465-2816 - Atendimento em Português e Japonês
+                  - text: Ou nos mande uma Mensagem 📩
+                  - text: YAMADA FUDOSAN - “A sua imobiliária no Japão 🇯🇵”
+                  - text: ✅ Casas Novas e Usadas
+                  - text: ✅ Financiamento de Fácil Aprovação
+                  - text: ✅ Simulação Gratuita
+                  - text: ✅ Atendimento Personalizado
+                  - text: ✅ Cobertura em Todo o Japão
+                  - text: ✅ Melhores Taxas de Juros
+                  - text: “Venha para a Yamada Fudosan você também!”
+                  - text: ☎️ 090-9922-1830 - Atendimento em Português
+                  - text: ☎️ 090-6465-2816 - Atendimento em Português e Japonês
+                  - text: "Localização:"
+                  - text: ヤマダ不動産半田店
+                  - text: 家電住まいる館 ヤマダ電機半田店
+                  - text: 〒475-0871
+                  - text: 愛知県半田市本町1丁目1番地
+                  - text: 宅建免許番号 愛知県知事（1）第24211号
+            - button "Carregar mais comentários" [ref=e156] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e158]
+            - generic [ref=e162]:
+              - heading "Ainda não há nenhum comentário." [level=2] [ref=e164]
+              - generic [ref=e166]: Inicie a conversa.
+          - generic [ref=e167]:
+            - generic [ref=e168]:
+              - generic [ref=e169]:
+                - button "Curtir" [ref=e172] [cursor=pointer]:
+                  - img "Curtir" [ref=e175]
+                - button "2" [ref=e177] [cursor=pointer]
+                - button "Comentar" [ref=e179] [cursor=pointer]:
+                  - img "Comentar" [ref=e181]
+                - button "Compartilhar" [ref=e183] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e184]
+              - button "Salvar" [ref=e188] [cursor=pointer]:
+                - img "Salvar" [ref=e190]
+            - link "5 de agosto de 2024" [ref=e194] [cursor=pointer]:
+              - /url: /meular.jp/p/C-R07wxR8vu/
+              - time [ref=e196]: 5 de agosto de 2024
+          - generic [ref=e201]:
+            - link "Entrar" [ref=e202] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fp%2FC-R07wxR8vu%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e204]
+      - generic [ref=e205]:
+        - generic [ref=e207]:
+          - text: Mais posts de
+          - link "meular.jp" [ref=e208] [cursor=pointer]:
+            - /url: /meular.jp/
+        - generic [ref=e211]:
+          - generic [ref=e212]:
+            - 'link "Parabéns Família Souza pela conquista 👏🏻🥳 🏠 Muito obrigado pela confiança 🙏🏻 Nós do meular.jp e @yamadafudosanhanda desejamos muitas felicidades 🎉🎊 #meularjp #morandonojapao #aichi #vivendonojapao Clipe" [ref=e214] [cursor=pointer]':
+              - /url: /meular.jp/reel/DRqblO0j7ii/
+              - 'img "Parabéns Família Souza pela conquista 👏🏻🥳 🏠 Muito obrigado pela confiança 🙏🏻 Nós do meular.jp e @yamadafudosanhanda desejamos muitas felicidades 🎉🎊 #meularjp #morandonojapao #aichi #vivendonojapao" [ref=e217]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "Parabéns Família Aoki pela conquista 👏🏻🥳 🏠 Muito obrigado pela confiança 🙏🏻 Nós do meular.jp e @yamadafudosanhanda desejamos muitas felicidades 🎉🎊 #meularjp #casa #casanojapao #japan #morandonojapao #aichi Clipe" [ref=e220] [cursor=pointer]':
+              - /url: /meular.jp/reel/DM4FVp4R7kr/
+              - 'img "Parabéns Família Aoki pela conquista 👏🏻🥳 🏠 Muito obrigado pela confiança 🙏🏻 Nós do meular.jp e @yamadafudosanhanda desejamos muitas felicidades 🎉🎊 #meularjp #casa #casanojapao #japan #morandonojapao #aichi" [ref=e223]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "🏠 No Japão, infiltração não é só um problema... é um risco estrutural ⚠️ No Brasil, uma infiltração é incômoda. No Japão, pode comprometer toda a estrutura da casa! ⚠️ Casas japonesas são feitas, em sua maioria, com estrutura de madeira. E quando a água entra, ela não avisa, vai apodrecendo por dentro, silenciosamente. Esses são os primeiros sinais de alerta: ✅ Trincas nas juntas do silicone ✅ Pintura externa soltando ou desbotando ✅ Manchas escuras no telhado Se a sua casa tem mais de 7 anos e apresenta qualquer um desses sinais, você precisa agir agora. A manutenção preventiva é a única forma de evitar prejuízos graves. 📲 Entre em contato com nossa equipe hoje mesmo e agende uma vistoria gratuita. #PinturaResidencial #ManutençãoDeCasa #TelhadoJapão #ImóveisNoJapão #CasaPrópriaJapão #ReformaNoJapão #PinturaExterna #VistoriaGratuita #japão #meularjp Clipe" [ref=e226] [cursor=pointer]':
+              - /url: /meular.jp/reel/DMFo-3HoGOq/
+              - 'img "🏠 No Japão, infiltração não é só um problema... é um risco estrutural ⚠️ No Brasil, uma infiltração é incômoda. No Japão, pode comprometer toda a estrutura da casa! ⚠️ Casas japonesas são feitas, em sua maioria, com estrutura de madeira. E quando a água entra, ela não avisa, vai apodrecendo por dentro, silenciosamente. Esses são os primeiros sinais de alerta: ✅ Trincas nas juntas do silicone ✅ Pintura externa soltando ou desbotando ✅ Manchas escuras no telhado Se a sua casa tem mais de 7 anos e apresenta qualquer um desses sinais, você precisa agir agora. A manutenção preventiva é a única forma de evitar prejuízos graves. 📲 Entre em contato com nossa equipe hoje mesmo e agende uma vistoria gratuita. #PinturaResidencial #ManutençãoDeCasa #TelhadoJapão #ImóveisNoJapão #CasaPrópriaJapão #ReformaNoJapão #PinturaExterna #VistoriaGratuita #japão #meularjp" [ref=e229]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e231]:
+            - link [ref=e233] [cursor=pointer]:
+              - /url: /meular.jp/reel/DLG1Xr5ObwI/
+              - img [ref=e236]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "📢😍 Casa Super Linda em Nishio-Shi Kiracho !! 😍📢 🚘 Garagem para 3carros 🏠 Casa 4LDK ✅ Terreno: 160.36m² ✅ Área Construída: 98.82㎡ ⚡ Tomada Para Carro Eletrico 🏠 Varanda Coberta 📍 Localização: Nishio-Shi Kiracho Entre em contato e agende sua consulta gratuita! ☎️ 090-9922-1830 - Atendimento em Português e Espanhol ☎️ 090-6465-2816 - Atendimento em Português e Japonês Ou nos mande uma Mensagem 📩 👇🏻 Veja mais informações detalhadas em nosso site 👇🏻 https://meular.jp/ YAMADA FUDOSAN HANDA \"A sua imobiliária no Japão 🇯🇵\" ✅ Casas Novas e Usadas ✅ Financiamento de Fácil Aprovação ✅ Simulação Gratuita ✅ Atendimento Personalizado ✅ Cobertura em Todo o Japão ✅ Melhores Taxas de Juros \"Venha para a Yamada Fudosan você também!\" ☎️ 090-9922-1830 - Atendimento em Português e Espanhol ☎️ 090-6465-2816 - Atendimento em Português e Japonês Clipe" [ref=e239] [cursor=pointer]':
+              - /url: /meular.jp/reel/DLBryZPhETx/
+              - 'img "📢😍 Casa Super Linda em Nishio-Shi Kiracho !! 😍📢 🚘 Garagem para 3carros 🏠 Casa 4LDK ✅ Terreno: 160.36m² ✅ Área Construída: 98.82㎡ ⚡ Tomada Para Carro Eletrico 🏠 Varanda Coberta 📍 Localização: Nishio-Shi Kiracho Entre em contato e agende sua consulta gratuita! ☎️ 090-9922-1830 - Atendimento em Português e Espanhol ☎️ 090-6465-2816 - Atendimento em Português e Japonês Ou nos mande uma Mensagem 📩 👇🏻 Veja mais informações detalhadas em nosso site 👇🏻 https://meular.jp/ YAMADA FUDOSAN HANDA \"A sua imobiliária no Japão 🇯🇵\" ✅ Casas Novas e Usadas ✅ Financiamento de Fácil Aprovação ✅ Simulação Gratuita ✅ Atendimento Personalizado ✅ Cobertura em Todo o Japão ✅ Melhores Taxas de Juros \"Venha para a Yamada Fudosan você também!\" ☎️ 090-9922-1830 - Atendimento em Português e Espanhol ☎️ 090-6465-2816 - Atendimento em Português e Japonês" [ref=e242]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "Comprar sua casa no Japão ficou mais fácil do que você imagina! E o @meular.jp vai te ajudar em tudo ✨ Com atendimento em português e espanhol, a Yamada Fudosan te ajuda a realizar o sonho da casa própria com simulação gratuita, melhores taxas de juros e financiamento facilitado – e ainda com vantagens exclusivas como economia nas contas e tecnologia antiterremoto! ✅ Atendimento em Português e Espanhol: ☎️ 090-9922-1830 ✅ Atendimento em Português e Japonês: ☎️ 090-6465-2816 📩 Ou envie uma mensagem! 🌐 Veja mais em: https://meular.jp/ Clipe" [ref=e245] [cursor=pointer]':
+              - /url: /shibadicas/reel/DK1m7LGPklP/
+              - 'img "Comprar sua casa no Japão ficou mais fácil do que você imagina! E o @meular.jp vai te ajudar em tudo ✨ Com atendimento em português e espanhol, a Yamada Fudosan te ajuda a realizar o sonho da casa própria com simulação gratuita, melhores taxas de juros e financiamento facilitado – e ainda com vantagens exclusivas como economia nas contas e tecnologia antiterremoto! ✅ Atendimento em Português e Espanhol: ☎️ 090-9922-1830 ✅ Atendimento em Português e Japonês: ☎️ 090-6465-2816 📩 Ou envie uma mensagem! 🌐 Veja mais em: https://meular.jp/" [ref=e248]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e250]:
+            - link [ref=e252] [cursor=pointer]:
+              - /url: /meular.jp/reel/DKgNdQ9Oe_X/
+              - img [ref=e255]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "🏠 “Precisa de visto permanente pra comprar casa no Japão?” ⠀ Essa é uma das perguntas que mais recebemos — e a resposta pode te surpreender! ⠀ Sim, é possível comprar mesmo sem o visto permanente. No vídeo explicamos como funciona e quais são os requisitos. ⠀ Assista até o fim e entenda tudo com clareza 😉 #imobiliárianojapao #toyota #aichi #casasnojapão #meularjp #japao #morandonojapao Clipe" [ref=e258] [cursor=pointer]':
+              - /url: /meular.jp/reel/DKTVeKsoQ1R/
+              - 'img "🏠 “Precisa de visto permanente pra comprar casa no Japão?” ⠀ Essa é uma das perguntas que mais recebemos — e a resposta pode te surpreender! ⠀ Sim, é possível comprar mesmo sem o visto permanente. No vídeo explicamos como funciona e quais são os requisitos. ⠀ Assista até o fim e entenda tudo com clareza 😉 #imobiliárianojapao #toyota #aichi #casasnojapão #meularjp #japao #morandonojapao" [ref=e261]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Mesmo com financiamento de carro ou nome negativado, é possível financiar! Tem banco que até assume sua dívida para liberar o crédito. 📲 A Yamada Fudosan tem imóveis por todo o Japão e oferece atendimento em português e espanhol. Fale direto com o Rafael no WhatsApp e 📞 090-9922-1830 Atualmente, há diversas opções disponíveis em várias regiões do país. 🔁 Compartilhe esse vídeo com quem está cansado de pagar aluguel! Clipe" [ref=e264] [cursor=pointer]:
+              - /url: /shibadicas/reel/DKRjdtaT3J7/
+              - img "Mesmo com financiamento de carro ou nome negativado, é possível financiar! Tem banco que até assume sua dívida para liberar o crédito. 📲 A Yamada Fudosan tem imóveis por todo o Japão e oferece atendimento em português e espanhol. Fale direto com o Rafael no WhatsApp e 📞 090-9922-1830 Atualmente, há diversas opções disponíveis em várias regiões do país. 🔁 Compartilhe esse vídeo com quem está cansado de pagar aluguel!" [ref=e267]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+        - generic [ref=e269]:
+          - link "Ver mais posts" [ref=e271] [cursor=pointer]:
+            - /url: /meular.jp/
+            - generic [ref=e272]: Ver mais posts
+          - separator [ref=e273]
+  - contentinfo [ref=e274]:
+    - generic [ref=e275]:
+      - generic [ref=e277]:
+        - link "Meta" [ref=e279] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e280]: Meta
+        - link "Sobre" [ref=e282] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e283]: Sobre
+        - link "Blog" [ref=e285] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e286]: Blog
+        - link "Carreiras" [ref=e288] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e289]: Carreiras
+        - link "Ajuda" [ref=e291] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e292]: Ajuda
+        - link "API" [ref=e294] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e295]: API
+        - link "Privacidade" [ref=e297] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e298]: Privacidade
+        - link "Termos" [ref=e300] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e301]: Termos
+        - link "Localizações" [ref=e303] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e304]: Localizações
+        - link "Instagram Lite" [ref=e306] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e307]: Instagram Lite
+        - link "Meta AI" [ref=e309] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e310]: Meta AI
+        - link "Threads" [ref=e312] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e313]: Threads
+        - link "Upload de contatos e não usuários" [ref=e315] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e316]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e318] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e319]: Meta Verified
+      - generic [ref=e320]:
+        - generic [ref=e321] [cursor=pointer]:
+          - generic [ref=e322]:
+            - generic [ref=e323]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e326]
+          - combobox "Trocar idioma de exibição" [ref=e328]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e330]: © 2026 Instagram from Meta

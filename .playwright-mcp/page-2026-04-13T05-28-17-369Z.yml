@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - img "Meu Lar JP" [ref=e6]
+    - generic [ref=e7]: "@meular.jp"
+  - generic [ref=e8]:
+    - generic [ref=e9]: À Venda
+    - generic [ref=e11]: Casa Residencial
+    - generic [ref=e12]:
+      - text: Nagoya
+      - text: Aichi-ken
+    - generic [ref=e13]: 5 min a pé da estação Jingumae
+    - generic [ref=e15]:
+      - generic [ref=e16]: 3 quartos
+      - generic [ref=e17]: 98m²
+      - generic [ref=e18]: 2 vagas
+      - generic [ref=e19]: Pet OK
+    - generic [ref=e21]: ¥28,800,000
+  - generic [ref=e22]: deslize →

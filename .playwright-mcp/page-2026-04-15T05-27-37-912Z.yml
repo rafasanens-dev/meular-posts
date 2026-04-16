@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Quartos
+    - generic [ref=e9]: 3 QUARTOS
+    - generic [ref=e10]:
+      - text: Três quartos bem distribuídos —
+      - text: todos com boa iluminação natural.

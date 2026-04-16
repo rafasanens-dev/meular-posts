@@ -1,0 +1,29 @@
+- generic [active] [ref=e1]:
+  - img "meular.jp" [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e6]: CASA NOVA
+    - generic [ref=e7]:
+      - generic [ref=e8]: Parcelas
+      - generic [ref=e9]: ¥114.500
+      - generic [ref=e10]: "VALOR: ¥36.900.000"
+      - generic [ref=e12]:
+        - text: AICHI-KEN
+        - text: NAGOYA-SHI
+        - text: MINATO-KU
+  - generic [ref=e13]:
+    - img "Sala" [ref=e15]
+    - img "Cozinha" [ref=e17]
+    - img "Lavabo" [ref=e19]
+  - generic [ref=e20]:
+    - generic [ref=e21]:
+      - img [ref=e22]
+      - generic [ref=e25]: 4LDK
+    - generic [ref=e27]:
+      - img [ref=e28]
+      - generic [ref=e33]: 4 VAGAS
+    - generic [ref=e35]:
+      - img [ref=e36]
+      - generic [ref=e39]: 103M²
+    - generic [ref=e41]:
+      - img [ref=e42]
+      - generic [ref=e44]: 230M²

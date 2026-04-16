@@ -1,0 +1,43 @@
+{
+  "squad": "imoveis-instagram",
+  "status": "running",
+  "step": { "current": 6, "total": 7, "label": "step-06-aprovar-publicacao" },
+  "agents": [
+    {
+      "id": "carlos-carrossel",
+      "name": "Carlos Carrossel",
+      "icon": "📝",
+      "status": "done",
+      "desk": { "col": 1, "row": 1 }
+    },
+    {
+      "id": "diana-design",
+      "name": "Diana Design",
+      "icon": "🎨",
+      "status": "done",
+      "desk": { "col": 2, "row": 1 }
+    },
+    {
+      "id": "renata-revisao",
+      "name": "Renata Revisão",
+      "icon": "🔍",
+      "status": "delivering",
+      "desk": { "col": 3, "row": 1 }
+    },
+    {
+      "id": "paula-publica",
+      "name": "Paula Publica",
+      "icon": "📲",
+      "status": "idle",
+      "desk": { "col": 1, "row": 2 }
+    }
+  ],
+  "handoff": {
+    "from": "renata-revisao",
+    "to": "paula-publica",
+    "message": "Carrossel aprovado com ressalvas — 9.6/10. Nenhum hard fail. Pronto para publicação.",
+    "completedAt": "2026-04-15T11:30:00Z"
+  },
+  "startedAt": "2026-04-15T11:00:52Z",
+  "updatedAt": "2026-04-15T11:30:00Z"
+}

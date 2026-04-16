@@ -1,0 +1,473 @@
+- generic [ref=e1]:
+  - generic [ref=e11]:
+    - generic [ref=e13]:
+      - link [ref=e840] [cursor=pointer]:
+        - /url: /
+        - img [ref=e841]
+      - generic [ref=e24]:
+        - link [ref=e842] [cursor=pointer]:
+          - /url: /accounts/login/?next=%2Fserhant%2F&source=desktop_nav
+          - text: Entrar
+        - link [ref=e843] [cursor=pointer]:
+          - /url: /accounts/emailsignup/
+          - text: Cadastre-se
+    - main [ref=e29]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - button [disabled] [ref=e844]:
+            - link [disabled] [ref=e845]:
+              - img [ref=e846]
+          - generic [ref=e38]:
+            - generic [ref=e39]:
+              - generic [ref=e40]:
+                - heading [level=2] [ref=e847]: serhant
+                - img [ref=e848]
+              - button [ref=e849] [cursor=pointer]:
+                - img [ref=e850]
+            - generic [ref=e53]: SERHANT.
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - link [ref=e851] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e59]:
+                    - generic [ref=e60]: "4.651"
+                    - text: posts
+              - listitem [ref=e61]:
+                - link [ref=e852] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e64]:
+                    - generic [ref=e853]: 603 mil
+                    - text: seguidores
+              - listitem [ref=e66]:
+                - link [ref=e854] [cursor=pointer]:
+                  - /url: "#"
+                  - generic [ref=e69]:
+                    - generic [ref=e70]: "857"
+                    - text: seguindo
+            - generic [ref=e72]:
+              - generic [ref=e74]: Imóvel
+              - generic [ref=e78]:
+                - text: The first real estate company designed for the marketplace of tomorrow. 🎥
+                - link [ref=e855] [cursor=pointer]:
+                  - /url: /owningmanhattan/
+                  - text: "@owningmanhattan"
+                - text: now on NETFLIX!
+        - menu [ref=e80]:
+          - list [ref=e84]:
+            - listitem [ref=e85]
+            - listitem [ref=e86]
+            - listitem [ref=e87]:
+              - menuitem [ref=e856] [cursor=pointer]:
+                - link [ref=e857]:
+                  - /url: /stories/highlights/17922720445444477/
+                  - button [disabled] [ref=e858]:
+                    - img [ref=e859]
+                - generic [ref=e97]: Growth
+            - listitem [ref=e98]:
+              - menuitem [ref=e860] [cursor=pointer]:
+                - link [ref=e861]:
+                  - /url: /stories/highlights/17906201710524688/
+                  - button [disabled] [ref=e862]:
+                    - img [ref=e863]
+                - generic [ref=e108]: Netflix
+            - listitem [ref=e109]:
+              - menuitem [ref=e864] [cursor=pointer]:
+                - link [ref=e865]:
+                  - /url: /stories/highlights/17938318504401204/
+                  - button [disabled] [ref=e866]:
+                    - img [ref=e867]
+                - generic [ref=e119]: Innnovation
+            - listitem [ref=e120]:
+              - menuitem [ref=e868] [cursor=pointer]:
+                - link [ref=e869]:
+                  - /url: /stories/highlights/17880824513648195/
+                  - button [disabled] [ref=e870]:
+                    - img [ref=e871]
+                - generic [ref=e130]: Deal Wall
+            - listitem [ref=e131]:
+              - menuitem [ref=e872] [cursor=pointer]:
+                - link [ref=e873]:
+                  - /url: /stories/highlights/17926606174435331/
+                  - button [disabled] [ref=e874]:
+                    - img [ref=e875]
+                - generic [ref=e141]: Press
+        - tablist [ref=e143]:
+          - link [ref=e876] [cursor=pointer]:
+            - /url: /serhant/
+            - img [ref=e877]
+          - link [ref=e878] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e879]
+          - link [ref=e880] [cursor=pointer]:
+            - /url: "#"
+            - img [ref=e881]
+        - generic [ref=e168]:
+          - article [ref=e169]:
+            - generic [ref=e171]:
+              - generic [ref=e172]:
+                - link [ref=e882] [cursor=pointer]:
+                  - /url: /serhant/p/DR4fXNlk6tD/
+                  - img [ref=e883]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e884] [cursor=pointer]:
+                  - /url: /serhant/reel/DOrMf_5jn9K/
+                  - img [ref=e885]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e886] [cursor=pointer]:
+                  - /url: /serhant/reel/DAQ2FpWqaC5/
+                  - img [ref=e887]
+                  - generic:
+                    - generic:
+                      - img
+              - generic [ref=e191]:
+                - link [ref=e888] [cursor=pointer]:
+                  - /url: /serhant/p/DW9XNVek6L2/
+                  - img [ref=e889]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e890] [cursor=pointer]:
+                  - /url: /serhant/reel/DW9QRrKDjo5/
+                  - img [ref=e891]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e892] [cursor=pointer]:
+                  - /url: /serhant/reel/DW9CsJ5AuAH/
+                  - img [ref=e893]
+                  - generic:
+                    - generic:
+                      - img
+              - generic [ref=e210]:
+                - link [ref=e894] [cursor=pointer]:
+                  - /url: /serhant/reel/DW7Njv6PSwL/
+                  - img [ref=e895]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e896] [cursor=pointer]:
+                  - /url: /serhant/p/DW7ACdCk_oL/
+                  - img [ref=e897]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e898] [cursor=pointer]:
+                  - /url: /serhant/reel/DW6vzc7DDkH/
+                  - img [ref=e899]
+                  - generic:
+                    - generic:
+                      - img
+              - generic [ref=e229]:
+                - link [ref=e900] [cursor=pointer]:
+                  - /url: /serhant/reel/DW6tEMXAZ1e/
+                  - img [ref=e901]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e902] [cursor=pointer]:
+                  - /url: /serhant/p/DW6mTODk5op/
+                  - img [ref=e903]
+                  - generic:
+                    - generic:
+                      - img
+                - link [ref=e904] [cursor=pointer]:
+                  - /url: /serhant/p/DW6hIhEiceJ/
+                  - img [ref=e905]
+                  - generic:
+                    - generic:
+                      - img
+          - button [ref=e906] [cursor=pointer]:
+            - generic [ref=e250]: Mostrar mais posts de serhant
+          - generic [ref=e251]:
+            - generic [ref=e252]:
+              - generic [ref=e254]: Contas relacionadas
+              - link [ref=e907] [cursor=pointer]:
+                - /url: /serhant/related_profiles/
+                - generic [ref=e256]: Ver tudo
+            - generic [ref=e258]:
+              - list [ref=e260]:
+                - listitem [ref=e261]
+                - listitem [ref=e262]:
+                  - button [ref=e908] [cursor=pointer]:
+                    - generic [ref=e266]:
+                      - button [ref=e909]
+                      - link [ref=e910]:
+                        - /url: /owningmanhattan/
+                        - img [ref=e911]
+                      - generic [ref=e272]:
+                        - generic [ref=e273]:
+                          - link [ref=e912]:
+                            - /url: /owningmanhattan/
+                            - generic [ref=e275]: owningmanhattan
+                          - img [ref=e913]
+                        - generic [ref=e281]: Owning Manhattan
+                      - button [ref=e915]:
+                        - button [ref=e916]:
+                          - generic [ref=e285]: Seguir
+                - listitem [ref=e286]:
+                  - button [ref=e917] [cursor=pointer]:
+                    - generic [ref=e290]:
+                      - button [ref=e918]
+                      - link [ref=e919]:
+                        - /url: /serhantstudios/
+                        - img [ref=e920]
+                      - generic [ref=e296]:
+                        - generic [ref=e297]:
+                          - link [ref=e921]:
+                            - /url: /serhantstudios/
+                            - generic [ref=e299]: serhantstudios
+                          - img [ref=e922]
+                        - generic [ref=e305]: SERHANT. Studios
+                      - button [ref=e924]:
+                        - button [ref=e925]:
+                          - generic [ref=e309]: Seguir
+                - listitem [ref=e310]:
+                  - button [ref=e926] [cursor=pointer]:
+                    - generic [ref=e314]:
+                      - button [ref=e927]
+                      - link [ref=e928]:
+                        - /url: /forbes/
+                        - img [ref=e929]
+                      - generic [ref=e320]:
+                        - generic [ref=e321]:
+                          - link [ref=e930]:
+                            - /url: /forbes/
+                            - generic [ref=e323]: forbes
+                          - img [ref=e931]
+                        - generic [ref=e329]: Forbes
+                      - button [ref=e933]:
+                        - button [ref=e934]:
+                          - generic [ref=e333]: Seguir
+                - listitem [ref=e334]:
+                  - button [ref=e935] [cursor=pointer]:
+                    - generic [ref=e338]:
+                      - button [ref=e936]
+                      - link [ref=e937]:
+                        - /url: /emiliaserhant/
+                        - img [ref=e938]
+                      - generic [ref=e344]:
+                        - generic [ref=e345]:
+                          - link [ref=e939]:
+                            - /url: /emiliaserhant/
+                            - generic [ref=e347]: emiliaserhant
+                          - img [ref=e940]
+                        - generic [ref=e353]: Emilia Bechrakis Serhant
+                      - button [ref=e942]:
+                        - button [ref=e943]:
+                          - generic [ref=e357]: Seguir
+                - listitem [ref=e358]:
+                  - button [ref=e944] [cursor=pointer]:
+                    - generic [ref=e362]:
+                      - button [ref=e945]
+                      - link [ref=e946]:
+                        - /url: /jadeshenker/
+                        - img [ref=e947]
+                      - generic [ref=e368]:
+                        - generic [ref=e369]:
+                          - link [ref=e948]:
+                            - /url: /jadeshenker/
+                            - generic [ref=e371]: jadeshenker
+                          - img [ref=e949]
+                        - generic [ref=e377]: Jade Shenker
+                      - button [ref=e951]:
+                        - button [ref=e952]:
+                          - generic [ref=e381]: Seguir
+                - listitem [ref=e382]:
+                  - button [ref=e953] [cursor=pointer]:
+                    - generic [ref=e386]:
+                      - button [ref=e954]
+                      - link [ref=e955]:
+                        - /url: /theoppenheimgroup/
+                        - img [ref=e956]
+                      - generic [ref=e392]:
+                        - generic [ref=e393]:
+                          - link [ref=e957]:
+                            - /url: /theoppenheimgroup/
+                            - generic [ref=e395]: theoppenheimgroup
+                          - img [ref=e958]
+                        - generic [ref=e401]: The Oppenheim Group
+                      - button [ref=e960]:
+                        - button [ref=e961]:
+                          - generic [ref=e405]: Seguir
+                - listitem [ref=e406]:
+                  - button [ref=e962] [cursor=pointer]:
+                    - generic [ref=e410]:
+                      - button [ref=e963]
+                      - link [ref=e964]:
+                        - /url: /wsj/
+                        - img [ref=e965]
+                      - generic [ref=e416]:
+                        - generic [ref=e417]:
+                          - link [ref=e966]:
+                            - /url: /wsj/
+                            - generic [ref=e419]: wsj
+                          - img [ref=e967]
+                        - generic [ref=e425]: The Wall Street Journal
+                      - button [ref=e969]:
+                        - button [ref=e970]:
+                          - generic [ref=e429]: Seguir
+                - listitem [ref=e430]:
+                  - button [ref=e971] [cursor=pointer]:
+                    - generic [ref=e434]:
+                      - button [ref=e972]
+                      - link [ref=e973]:
+                        - /url: /serhantnewdevelopment/
+                        - img [ref=e974]
+                      - generic [ref=e440]:
+                        - generic [ref=e441]:
+                          - link [ref=e975]:
+                            - /url: /serhantnewdevelopment/
+                            - generic [ref=e443]: serhantnewdevelopment
+                          - img [ref=e976]
+                        - generic [ref=e449]: SERHANT. New Development
+                      - button [ref=e978]:
+                        - button [ref=e979]:
+                          - generic [ref=e453]: Seguir
+                - listitem [ref=e454]:
+                  - button [ref=e980] [cursor=pointer]:
+                    - generic [ref=e458]:
+                      - button [ref=e981]
+                      - link [ref=e982]:
+                        - /url: /ryanserhant/
+                        - img [ref=e983]
+                      - generic [ref=e464]:
+                        - generic [ref=e465]:
+                          - link [ref=e984]:
+                            - /url: /ryanserhant/
+                            - generic [ref=e467]: ryanserhant
+                          - img [ref=e985]
+                        - generic [ref=e473]: Ryan Serhant
+                      - button [ref=e987]:
+                        - button [ref=e988]:
+                          - generic [ref=e477]: Seguir
+                - listitem [ref=e478]:
+                  - button [ref=e989] [cursor=pointer]:
+                    - generic [ref=e482]:
+                      - button [ref=e990]
+                      - link [ref=e991]:
+                        - /url: /zaitzeff/
+                        - img [ref=e992]
+                      - generic [ref=e488]:
+                        - link [ref=e993]:
+                          - /url: /zaitzeff/
+                          - generic [ref=e491]: zaitzeff
+                        - generic [ref=e494]: Peter Zane Zaitzeff
+                      - button [ref=e995]:
+                        - button [ref=e996]:
+                          - generic [ref=e498]: Seguir
+                - listitem [ref=e499]:
+                  - button [ref=e997] [cursor=pointer]:
+                    - generic [ref=e503]:
+                      - button [ref=e998]
+                      - link [ref=e999]:
+                        - /url: /wsjrealestate/
+                        - img [ref=e1000]
+                      - generic [ref=e509]:
+                        - generic [ref=e510]:
+                          - link [ref=e1001]:
+                            - /url: /wsjrealestate/
+                            - generic [ref=e512]: wsjrealestate
+                          - img [ref=e1002]
+                        - generic [ref=e518]: WSJ Real Estate
+                      - button [ref=e1004]:
+                        - button [ref=e1005]:
+                          - generic [ref=e522]: Seguir
+                - listitem [ref=e523]:
+                  - button [ref=e1006] [cursor=pointer]:
+                    - generic [ref=e527]:
+                      - button [ref=e1007]
+                      - link [ref=e1008]:
+                        - /url: /chloeinmanhattan/
+                        - img [ref=e1009]
+                      - generic [ref=e533]:
+                        - generic [ref=e534]:
+                          - link [ref=e1010]:
+                            - /url: /chloeinmanhattan/
+                            - generic [ref=e536]: chloeinmanhattan
+                          - img [ref=e1011]
+                        - generic [ref=e542]: Chloe Tucker Caine
+                      - button [ref=e1013]:
+                        - button [ref=e1014]:
+                          - generic [ref=e546]: Seguir
+              - button [ref=e1015] [cursor=pointer]
+    - contentinfo [ref=e549]:
+      - generic [ref=e550]:
+        - generic [ref=e552]:
+          - link [ref=e1016] [cursor=pointer]:
+            - /url: https://about.meta.com/
+            - generic [ref=e555]: Meta
+          - link [ref=e1017] [cursor=pointer]:
+            - /url: https://about.instagram.com/
+            - generic [ref=e558]: Sobre
+          - link [ref=e1018] [cursor=pointer]:
+            - /url: https://about.instagram.com/blog/
+            - generic [ref=e561]: Blog
+          - link [ref=e1019] [cursor=pointer]:
+            - /url: https://about.instagram.com/about-us/careers
+            - generic [ref=e564]: Carreiras
+          - link [ref=e1020] [cursor=pointer]:
+            - /url: https://help.instagram.com/
+            - generic [ref=e567]: Ajuda
+          - link [ref=e1021] [cursor=pointer]:
+            - /url: https://developers.facebook.com/docs/instagram
+            - generic [ref=e570]: API
+          - link [ref=e1022] [cursor=pointer]:
+            - /url: /legal/privacy/
+            - generic [ref=e573]: Privacidade
+          - link [ref=e1023] [cursor=pointer]:
+            - /url: /legal/terms/
+            - generic [ref=e576]: Termos
+          - link [ref=e1024] [cursor=pointer]:
+            - /url: /explore/locations/
+            - generic [ref=e579]: Localizações
+          - link [ref=e1025] [cursor=pointer]:
+            - /url: /web/lite/
+            - generic [ref=e582]: Instagram Lite
+          - link [ref=e1026] [cursor=pointer]:
+            - /url: https://www.meta.ai/?utm_source=foa_web_footer
+            - generic [ref=e585]: Meta AI
+          - link [ref=e1027] [cursor=pointer]:
+            - /url: https://www.threads.com/
+            - generic [ref=e588]: Threads
+          - link [ref=e1028] [cursor=pointer]:
+            - /url: https://www.facebook.com/help/instagram/261704639352628
+            - generic [ref=e591]: Upload de contatos e não usuários
+          - link [ref=e1029] [cursor=pointer]:
+            - /url: /accounts/meta_verified/?entrypoint=web_footer
+            - generic [ref=e594]: Meta Verified
+        - generic [ref=e595]:
+          - generic [ref=e596] [cursor=pointer]:
+            - generic [ref=e597]:
+              - generic [ref=e598]: Português (Brasil)
+              - img [ref=e1030]
+            - combobox [ref=e1031]
+          - generic [ref=e605]: © 2026 Instagram from Meta
+  - dialog [ref=e1044]:
+    - generic [ref=e1045]:
+      - button "Fechar" [active] [ref=e1047] [cursor=pointer]:
+        - img "Fechar" [ref=e1049]
+      - generic [ref=e1053]:
+        - generic [ref=e1054]:
+          - link "Foto do perfil de serhant" [ref=e1056] [cursor=pointer]:
+            - img "Foto do perfil de serhant" [ref=e1057]
+          - generic [ref=e1059]:
+            - generic [ref=e1060]: Ver este post
+            - generic [ref=e1062]:
+              - text: Entre ou cadastre-se para ver o post de
+              - strong [ref=e1063]: serhant
+              - text: .
+            - generic [ref=e1065]:
+              - text: Ao continuar, você concorda com os
+              - link "Termos de Uso" [ref=e1066] [cursor=pointer]:
+                - /url: https://help.instagram.com/581066165581870/?locale=pt_BR
+              - text: e a
+              - link "Política de Privacidade" [ref=e1067] [cursor=pointer]:
+                - /url: https://privacycenter.instagram.com/policy/
+              - text: do Instagram.
+        - generic [ref=e1068]:
+          - button "Cadastre-se" [ref=e1071] [cursor=pointer]
+          - button "Entrar" [ref=e1074] [cursor=pointer]

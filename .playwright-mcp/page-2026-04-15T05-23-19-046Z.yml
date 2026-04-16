@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Ofurô
+    - generic [ref=e9]: OFURÔ
+    - generic [ref=e10]:
+      - text: Banheira completa com aquecimento automático
+      - text: — conforto e praticidade todo dia.

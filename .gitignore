@@ -1,0 +1,20 @@
+# Credenciais — nunca commitar
+.env
+*.env.local
+
+# Dependências
+node_modules/
+
+# Sessão do browser (cookies de login — privado)
+_opensquad/_browser_profile/
+
+# Slides brutos dos squads (ficam apenas em posts/, não no output do squad)
+squads/**/slides/
+**/*-ig.jpg
+**/*-preview.png
+
+# Material bruto das propriedades (fotos originais)
+material/
+
+# Build temporário
+_build/

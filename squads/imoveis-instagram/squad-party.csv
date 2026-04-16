@@ -1,0 +1,5 @@
+id,displayName,title,icon,path,execution,description
+carlos-carrossel,Carlos Carrossel,Copywriter de Imóveis,📝,./agents/carlos-carrossel.agent.md,inline,Lê os dados do imóvel e escreve os textos para cada slide e a legenda completa
+diana-design,Diana Design,Designer de Slides,🎨,./agents/diana-design.agent.md,subagent,Cria os slides HTML/CSS com as fotos reais e renderiza cada slide como PNG via Playwright
+renata-revisao,Renata Revisão,Revisora de Qualidade,🔍,./agents/renata-revisao.agent.md,inline,Avalia o carrossel completo contra os critérios de qualidade e emite veredicto com feedback
+paula-publica,Paula Publica,Publicadora no Instagram,📲,./agents/paula-publica.agent.md,inline,Valida as imagens e a legenda e publica o carrossel no @meular.jp via Graph API

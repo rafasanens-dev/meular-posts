@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Sala + Cozinha
+    - generic [ref=e9]: LDK INTEGRADO
+    - generic [ref=e10]:
+      - text: Integradas e abertas — o espaço ideal
+      - text: para reunir a família.

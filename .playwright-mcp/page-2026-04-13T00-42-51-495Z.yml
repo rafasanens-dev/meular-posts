@@ -1,0 +1,378 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fserhant%2Fp%2FDW7ACdCk_oL%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e37]:
+          - generic [ref=e44]:
+            - list [ref=e46]:
+              - listitem [ref=e47]
+              - listitem [ref=e48]:
+                - img [ref=e55]
+              - listitem [ref=e57]:
+                - img [ref=e64]
+            - button [ref=e66] [cursor=pointer]
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - link "Foto do perfil de serhantpalmbeaches" [ref=e74]:
+                - img "Foto do perfil de serhantpalmbeaches" [ref=e75]
+              - link "Foto do perfil de serhant" [ref=e78]:
+                - img "Foto do perfil de serhant" [ref=e79]
+            - generic [ref=e84]:
+              - link "serhant" [ref=e86] [cursor=pointer]:
+                - /url: /serhant/
+                - generic [ref=e89]: serhant
+              - text: e
+              - link "outros 3" [ref=e91] [cursor=pointer]:
+                - /url: "#"
+            - button "Mais opções" [ref=e94] [cursor=pointer]:
+              - img "Mais opções" [ref=e97]
+          - separator [ref=e101]
+          - generic [ref=e103]:
+            - generic [ref=e105]:
+              - link "Foto do perfil de serhant" [ref=e107] [cursor=pointer]:
+                - /url: /serhant/
+                - img "Foto do perfil de serhant" [ref=e108]
+              - generic [ref=e112]:
+                - generic [ref=e113]:
+                  - link "serhant Verificado" [ref=e114] [cursor=pointer]:
+                    - /url: /serhant/
+                    - generic [ref=e116]:
+                      - generic [ref=e117]: serhant
+                      - img "Verificado" [ref=e119]
+                  - time [ref=e122]: 3 d
+                - generic [ref=e123]:
+                  - text: 12300 Old Cutler Road, Coral Gables, FL • $18,500 Monthly
+                  - text: –
+                  - text: On the iconic, tree-lined stretch of Old Cutler Rd, this private Pinecrest estate sits on 1.4 acres and features a single-family home with a detached guest house. The main residence offers 3 bedrooms and 3.5 bathrooms with marble floors throughout, an updated kitchen, bright living areas, and a 2-car garage. Outdoor spaces include a travertine pool deck, expansive yard, and a covered patio with wood ceilings. Surrounded by mature tropical landscaping, the setting feels private and secluded. The 1-bedroom, 1-bath guest house is ideal for guests, extended family, or a home office. Located near top-rated schools, parks, marinas, and dining.
+                  - text: –
+                  - text: For more information on this listing click the link in our bio 🏡
+                  - text: –
+                  - text: 12300 Old Cutler Road, Coral Gables, FL • 4 Beds • 4 Full Baths • 1 Half Bath • $18,500 Monthly
+                  - text: –
+                  - text: Repped By Amy Casal (
+                  - link "@amy_casal" [ref=e124] [cursor=pointer]:
+                    - /url: /amy_casal/
+                  - text: )
+            - button "Carregar mais comentários" [ref=e126] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e128]
+            - generic [ref=e130]:
+              - generic [ref=e133]:
+                - link "Foto do perfil de jilliandigital" [ref=e136] [cursor=pointer]:
+                  - /url: /jilliandigital/
+                  - img "Foto do perfil de jilliandigital" [ref=e137]
+                - generic [ref=e139]:
+                  - generic [ref=e141]:
+                    - generic [ref=e142]:
+                      - link "jilliandigital" [ref=e144] [cursor=pointer]:
+                        - /url: /jilliandigital/
+                        - generic [ref=e147]: jilliandigital
+                      - link "3 h" [ref=e149] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/18093062174149195/
+                        - time [ref=e150]: 3 h
+                    - generic [ref=e152]: Servant blue chairs. Very cool. 😍
+                  - generic [ref=e153]:
+                    - button "Curtir" [ref=e154] [cursor=pointer]:
+                      - generic [ref=e155]: Curtir
+                    - button "Responder" [ref=e156] [cursor=pointer]:
+                      - generic [ref=e158]: Responder
+              - generic [ref=e161]:
+                - link "Foto do perfil de theyanizgroup" [ref=e164] [cursor=pointer]:
+                  - /url: /theyanizgroup/
+                  - img "Foto do perfil de theyanizgroup" [ref=e165]
+                - generic [ref=e167]:
+                  - generic [ref=e169]:
+                    - generic [ref=e170]:
+                      - link "theyanizgroup Verificado" [ref=e172] [cursor=pointer]:
+                        - /url: /theyanizgroup/
+                        - generic [ref=e174]:
+                          - generic [ref=e175]: theyanizgroup
+                          - img "Verificado" [ref=e177]
+                      - link "6 h" [ref=e180] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/17959692699118346/
+                        - time [ref=e181]: 6 h
+                    - generic [ref=e183]: Amazing listing!👏
+                  - generic [ref=e184]:
+                    - button "Curtir" [ref=e185] [cursor=pointer]:
+                      - generic [ref=e186]: Curtir
+                    - button "Responder" [ref=e187] [cursor=pointer]:
+                      - generic [ref=e189]: Responder
+              - generic [ref=e192]:
+                - link "Foto do perfil de brigugliogina" [ref=e195] [cursor=pointer]:
+                  - /url: /brigugliogina/
+                  - img "Foto do perfil de brigugliogina" [ref=e196]
+                - generic [ref=e198]:
+                  - generic [ref=e200]:
+                    - generic [ref=e201]:
+                      - link "brigugliogina Verificado" [ref=e203] [cursor=pointer]:
+                        - /url: /brigugliogina/
+                        - generic [ref=e205]:
+                          - generic [ref=e206]: brigugliogina
+                          - img "Verificado" [ref=e208]
+                      - link "2 d" [ref=e211] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/18133686130542275/
+                        - time [ref=e212]: 2 d
+                    - generic [ref=e214]: Magnificent 😍
+                  - generic [ref=e215]:
+                    - button "Curtir" [ref=e216] [cursor=pointer]:
+                      - generic [ref=e217]: Curtir
+                    - button "Responder" [ref=e218] [cursor=pointer]:
+                      - generic [ref=e220]: Responder
+              - generic [ref=e223]:
+                - link "Foto do perfil de wa.premium" [ref=e226] [cursor=pointer]:
+                  - /url: /wa.premium/
+                  - img "Foto do perfil de wa.premium" [ref=e227]
+                - generic [ref=e229]:
+                  - generic [ref=e231]:
+                    - generic [ref=e232]:
+                      - link "wa.premium" [ref=e234] [cursor=pointer]:
+                        - /url: /wa.premium/
+                        - generic [ref=e237]: wa.premium
+                      - link "2 d" [ref=e239] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/17923274625289851/
+                        - time [ref=e240]: 2 d
+                    - generic [ref=e242]: Stunning 🤩
+                  - generic [ref=e243]:
+                    - button "Curtir" [ref=e244] [cursor=pointer]:
+                      - generic [ref=e245]: Curtir
+                    - button "Responder" [ref=e246] [cursor=pointer]:
+                      - generic [ref=e248]: Responder
+              - generic [ref=e251]:
+                - link "Foto do perfil de commizah" [ref=e254] [cursor=pointer]:
+                  - /url: /commizah/
+                  - img "Foto do perfil de commizah" [ref=e255]
+                - generic [ref=e257]:
+                  - generic [ref=e259]:
+                    - generic [ref=e260]:
+                      - link "commizah" [ref=e262] [cursor=pointer]:
+                        - /url: /commizah/
+                        - generic [ref=e265]: commizah
+                      - link "3 d" [ref=e267] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/18099276139962435/
+                        - time [ref=e268]: 3 d
+                    - generic [ref=e270]: ❤️🔥Sold., 🇿🇼🇪🇦🇿🇦🇶🇦😍
+                  - generic [ref=e271]:
+                    - button "Curtir" [ref=e272] [cursor=pointer]:
+                      - generic [ref=e273]: Curtir
+                    - button "Responder" [ref=e274] [cursor=pointer]:
+                      - generic [ref=e276]: Responder
+              - generic [ref=e279]:
+                - link "Foto do perfil de hhatice_ddemiray" [ref=e282] [cursor=pointer]:
+                  - /url: /hhatice_ddemiray/
+                  - img "Foto do perfil de hhatice_ddemiray" [ref=e283]
+                - generic [ref=e285]:
+                  - generic [ref=e287]:
+                    - generic [ref=e288]:
+                      - link "hhatice_ddemiray" [ref=e290] [cursor=pointer]:
+                        - /url: /hhatice_ddemiray/
+                        - generic [ref=e293]: hhatice_ddemiray
+                      - link "3 d" [ref=e295] [cursor=pointer]:
+                        - /url: /p/DW7ACdCk_oL/c/17947295808137677/
+                        - time [ref=e296]: 3 d
+                    - generic [ref=e298]: 👏👏👏
+                  - generic [ref=e299]:
+                    - button "Curtir" [ref=e300] [cursor=pointer]:
+                      - generic [ref=e301]: Curtir
+                    - button "Responder" [ref=e302] [cursor=pointer]:
+                      - generic [ref=e304]: Responder
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - button "Curtir" [ref=e310] [cursor=pointer]:
+                  - img "Curtir" [ref=e313]
+                - button "97" [ref=e315] [cursor=pointer]
+                - button "Comentar" [ref=e317] [cursor=pointer]:
+                  - img "Comentar" [ref=e319]
+                - button "7" [ref=e321] [cursor=pointer]
+                - button "Compartilhar" [ref=e322] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e323]
+              - button "Salvar" [ref=e327] [cursor=pointer]:
+                - img "Salvar" [ref=e329]
+            - link "há 3 dias" [ref=e333] [cursor=pointer]:
+              - /url: /serhant/p/DW7ACdCk_oL/
+              - time [ref=e335]: há 3 dias
+          - generic [ref=e340]:
+            - link "Entrar" [ref=e341] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fserhant%2Fp%2FDW7ACdCk_oL%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e343]
+      - generic [ref=e344]:
+        - generic [ref=e346]:
+          - text: Mais posts de
+          - link "serhant" [ref=e347] [cursor=pointer]:
+            - /url: /serhant/
+        - generic [ref=e350]:
+          - generic [ref=e351]:
+            - link "Photo shared by Owning Manhattan on December 05, 2025 tagging @isaiahgill.photo, @worldofwonder, @ryanserhant, @serhant, and @serhantstudios." [ref=e353] [cursor=pointer]:
+              - /url: /owningmanhattan/p/DR4fXNlk6tD/
+              - img "Photo shared by Owning Manhattan on December 05, 2025 tagging @isaiahgill.photo, @worldofwonder, @ryanserhant, @serhant, and @serhantstudios." [ref=e356]
+            - link "Happy 5-Year Anniversary @serhant from The Office’s @rainnwilson Clipe" [ref=e359] [cursor=pointer]:
+              - /url: /ryanserhant/reel/DOrMf_5jn9K/
+              - img "Happy 5-Year Anniversary @serhant from The Office’s @rainnwilson" [ref=e362]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Unlock the future of real estate with S.MPLE by SERHANT. 🚀 As we mark our fourth anniversary, embrace a revolution in real estate that simplifies your work and enhances your life. We're transforming how real estate agents get work done. ㅤ S.MPLE acts as Instacart or Amazon Prime for real estate salespeople, streamlining your administrative tasks and transactions so you can focus on what truly matters—your clients and your sales. Imagine having more time for the meaningful parts of your business and life, with all the tedious work handled seamlessly in the background. ㅤ Ready to reclaim your time and redefine real estate? Dive into the future with S.MPLE, and see why SERHANT. continues to lead the way in innovation. Clipe" [ref=e365] [cursor=pointer]:
+              - /url: /serhant/reel/DAQ2FpWqaC5/
+              - img "Unlock the future of real estate with S.MPLE by SERHANT. 🚀 As we mark our fourth anniversary, embrace a revolution in real estate that simplifies your work and enhances your life. We're transforming how real estate agents get work done. ㅤ S.MPLE acts as Instacart or Amazon Prime for real estate salespeople, streamlining your administrative tasks and transactions so you can focus on what truly matters—your clients and your sales. Imagine having more time for the meaningful parts of your business and life, with all the tedious work handled seamlessly in the background. ㅤ Ready to reclaim your time and redefine real estate? Dive into the future with S.MPLE, and see why SERHANT. continues to lead the way in innovation." [ref=e368]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e370]:
+            - link [ref=e372] [cursor=pointer]:
+              - /url: /serhant/p/DW9XNVek6L2/
+              - img [ref=e375]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link "4027 Colonel Mendez Way, Fairfax, VA • $1,500,000 – Built in 2011 with historical details. Welcome to the Powell-Ostrander House, a truly one-of-a-kind residence that blends the charm of the original 1800s farmhouse with the comfort and luxury of a custom home built in 2011. Offering nearly 5,000 square feet, this remarkable property features five bedrooms, five full bathrooms, and one half bath, combining historic character with modern design. Set at the end of a quiet cul-de-sac in a private community, the home sits on a serene quarter-acre lot surrounded by landscaped grounds and green space with a pergola. An expansive front porch provides the perfect place to relax or entertain. – For more information on this listing click the link in our bio 🏡 – 4027 Colonel Mendez Way, Fairfax, VA • 5 Beds • 5 Full Baths • 1 Half Bath • $1,500,000 – Repped By Kat Massetti (@katmassetti) Clipe" [ref=e378] [cursor=pointer]:
+              - /url: /serhant/reel/DW9QRrKDjo5/
+              - img "4027 Colonel Mendez Way, Fairfax, VA • $1,500,000 – Built in 2011 with historical details. Welcome to the Powell-Ostrander House, a truly one-of-a-kind residence that blends the charm of the original 1800s farmhouse with the comfort and luxury of a custom home built in 2011. Offering nearly 5,000 square feet, this remarkable property features five bedrooms, five full bathrooms, and one half bath, combining historic character with modern design. Set at the end of a quiet cul-de-sac in a private community, the home sits on a serene quarter-acre lot surrounded by landscaped grounds and green space with a pergola. An expansive front porch provides the perfect place to relax or entertain. – For more information on this listing click the link in our bio 🏡 – 4027 Colonel Mendez Way, Fairfax, VA • 5 Beds • 5 Full Baths • 1 Half Bath • $1,500,000 – Repped By Kat Massetti (@katmassetti)" [ref=e381]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "SERHANT. Signature: 435 Henry Street, Brooklyn, NY • $12,995,000 – 435 Henry Street is one of the most remarkable townhouses in Cobble Hill. At 24 feet wide and nearly 8,000 square feet, this mint condition residence offers exceptional scale along with a private garage, guest house, and beautifully landscaped garden. Built from the ground up with a concrete structure and brick facade, the home was designed by architect Brendan Coburn of The Brooklyn Studio and constructed by Interior Alterations. The solid construction creates an exceptionally quiet and private environment, while three exposures bring natural light throughout the home. – For more information on this listing click the link in our bio 🏡 – 435 Henry Street, Brooklyn, NY • 6 Beds • 6 Full Baths • 2 Half Baths • $12,995,000 – Repped By Ravi Kantha (@ravi.a.kantha) Cameron LeCates (@cslecates) Clipe" [ref=e384] [cursor=pointer]':
+              - /url: /serhant/reel/DW9CsJ5AuAH/
+              - 'img "SERHANT. Signature: 435 Henry Street, Brooklyn, NY • $12,995,000 – 435 Henry Street is one of the most remarkable townhouses in Cobble Hill. At 24 feet wide and nearly 8,000 square feet, this mint condition residence offers exceptional scale along with a private garage, guest house, and beautifully landscaped garden. Built from the ground up with a concrete structure and brick facade, the home was designed by architect Brendan Coburn of The Brooklyn Studio and constructed by Interior Alterations. The solid construction creates an exceptionally quiet and private environment, while three exposures bring natural light throughout the home. – For more information on this listing click the link in our bio 🏡 – 435 Henry Street, Brooklyn, NY • 6 Beds • 6 Full Baths • 2 Half Baths • $12,995,000 – Repped By Ravi Kantha (@ravi.a.kantha) Cameron LeCates (@cslecates)" [ref=e387]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e389]:
+            - link "Does @dylanefron help you kick off your sales huddle? Didn’t think so! Today’s Q1 Sales Huddle brought agents together from all over, tuning in virtually and showing up in a big way to recap one of our biggest quarters to date. Huge wins, real momentum, and a clear focus on what’s next. If this is how we’re starting the year, Q2 is about to go even bigger 🚀 Clipe" [ref=e391] [cursor=pointer]:
+              - /url: /serhant/reel/DW7Njv6PSwL/
+              - img "Does @dylanefron help you kick off your sales huddle? Didn’t think so! Today’s Q1 Sales Huddle brought agents together from all over, tuning in virtually and showing up in a big way to recap one of our biggest quarters to date. Huge wins, real momentum, and a clear focus on what’s next. If this is how we’re starting the year, Q2 is about to go even bigger 🚀" [ref=e394]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Anyone recognize this spot? Hint in the comments! 👀 ㅤ Tucked along the East River, Sutton Square is one of Manhattan’s best kept secrets, where historic townhomes, private gardens, and total privacy feel worlds away from the city. ㅤ At the center of it all, 6 Sutton Square delivers something almost impossible to find. A fully reimagined Neo Georgian mansion spanning 8,500 square feet, with seven bedrooms, layered terraces, and sunlit interiors that capture the river from every angle. ㅤ But the real flex? A private 12,000 square foot riverfront garden reserved only for residents, plus a rooftop built for hosting with skyline views that never get old. ㅤ Contact Lauren Mitinas-Kelly (@inlaurenwetrustnyc) at SERHANT. for more information on 6 Sutton Square. ✨ Clipe" [ref=e397] [cursor=pointer]:
+              - /url: /listedbyserhant/reel/DW6vzc7DDkH/
+              - img "Anyone recognize this spot? Hint in the comments! 👀 ㅤ Tucked along the East River, Sutton Square is one of Manhattan’s best kept secrets, where historic townhomes, private gardens, and total privacy feel worlds away from the city. ㅤ At the center of it all, 6 Sutton Square delivers something almost impossible to find. A fully reimagined Neo Georgian mansion spanning 8,500 square feet, with seven bedrooms, layered terraces, and sunlit interiors that capture the river from every angle. ㅤ But the real flex? A private 12,000 square foot riverfront garden reserved only for residents, plus a rooftop built for hosting with skyline views that never get old. ㅤ Contact Lauren Mitinas-Kelly (@inlaurenwetrustnyc) at SERHANT. for more information on 6 Sutton Square. ✨" [ref=e400]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+        - generic [ref=e403]:
+          - link "Ver mais posts" [ref=e405] [cursor=pointer]:
+            - /url: /serhant/
+            - generic [ref=e406]: Ver mais posts
+          - separator [ref=e407]
+  - contentinfo [ref=e408]:
+    - generic [ref=e409]:
+      - generic [ref=e411]:
+        - link "Meta" [ref=e413] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e414]: Meta
+        - link "Sobre" [ref=e416] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e417]: Sobre
+        - link "Blog" [ref=e419] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e420]: Blog
+        - link "Carreiras" [ref=e422] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e423]: Carreiras
+        - link "Ajuda" [ref=e425] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e426]: Ajuda
+        - link "API" [ref=e428] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e429]: API
+        - link "Privacidade" [ref=e431] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e432]: Privacidade
+        - link "Termos" [ref=e434] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e435]: Termos
+        - link "Localizações" [ref=e437] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e438]: Localizações
+        - link "Instagram Lite" [ref=e440] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e441]: Instagram Lite
+        - link "Meta AI" [ref=e443] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e444]: Meta AI
+        - link "Threads" [ref=e446] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e447]: Threads
+        - link "Upload de contatos e não usuários" [ref=e449] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e450]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e452] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e453]: Meta Verified
+      - generic [ref=e454]:
+        - generic [ref=e455] [cursor=pointer]:
+          - generic [ref=e456]:
+            - generic [ref=e457]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e460]
+          - combobox "Trocar idioma de exibição" [ref=e462]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e464]: © 2026 Instagram from Meta

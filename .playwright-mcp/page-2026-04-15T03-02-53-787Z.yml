@@ -1,0 +1,10 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Cozinha
+    - generic [ref=e9]: COZINHA
+    - generic [ref=e10]:
+      - text: IH, coifa e bancada ampla — All Denka,
+      - text: sem gás, fácil de limpar.

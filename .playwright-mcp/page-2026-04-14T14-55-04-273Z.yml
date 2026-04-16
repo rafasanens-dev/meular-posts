@@ -1,0 +1,12 @@
+- generic [ref=e13]:
+  - img "meular.jp" [ref=e14]
+  - generic [ref=e16]: INTERESSADO NESTE IMÓVEL?
+  - generic [ref=e17]:
+    - text: Fale com nossos especialistas e tire
+    - text: todas as suas dúvidas hoje mesmo!
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - img [ref=e20]
+      - text: +81 90-9922-1830
+    - generic [ref=e23]: www.meular.jp
+  - generic [ref=e24]: Atendimento em Português · Español · English · 日本語

@@ -1,0 +1,298 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Flopesimoveis%2Fp%2FDW7H9d-jxCe%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e37]:
+          - generic [ref=e44]:
+            - list [ref=e46]:
+              - listitem [ref=e47]
+              - listitem [ref=e48]:
+                - img [ref=e55]
+              - listitem [ref=e57]:
+                - img [ref=e64]
+            - button [ref=e66] [cursor=pointer]
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - button "Foto do perfil de lopesimoveis" [disabled] [ref=e73]:
+              - link "Foto do perfil de lopesimoveis" [disabled] [ref=e75] [cursor=pointer]:
+                - img "Foto do perfil de lopesimoveis" [ref=e76]
+            - generic [ref=e79]:
+              - generic [ref=e81]:
+                - link "lopesimoveis" [ref=e83] [cursor=pointer]:
+                  - /url: /lopesimoveis/
+                  - generic [ref=e86]: lopesimoveis
+                - img "Verificado" [ref=e88]
+              - generic [ref=e90]:
+                - generic [ref=e92]: •
+                - button "Seguir" [ref=e93] [cursor=pointer]
+            - button "Mais opções" [ref=e96] [cursor=pointer]:
+              - img "Mais opções" [ref=e99]
+          - separator [ref=e103]
+          - generic [ref=e105]:
+            - generic [ref=e107]:
+              - link "Foto do perfil de lopesimoveis" [ref=e109] [cursor=pointer]:
+                - /url: /lopesimoveis/
+                - img "Foto do perfil de lopesimoveis" [ref=e110]
+              - generic [ref=e114]:
+                - generic [ref=e115]:
+                  - link "lopesimoveis Verificado" [ref=e116] [cursor=pointer]:
+                    - /url: /lopesimoveis/
+                    - generic [ref=e118]:
+                      - generic [ref=e119]: lopesimoveis
+                      - img "Verificado" [ref=e121]
+                  - time [ref=e124]: 3 d
+                - generic [ref=e125]:
+                  - text: procure o infinity perdizes no google pelo código REM25324 ✨
+                  - text: Sofisticação, exclusividade e localização privilegiada em um só lugar. O Infinity Perdizes chega para redefinir o alto padrão de viver bem na Zona Oeste de São Paulo.
+                  - text: Em um dos bairros mais desejados da cidade, você estará cercado por ruas arborizadas, excelente infraestrutura e tudo o que facilita o seu dia a dia — com mobilidade estratégica e alto potencial de valorização.
+                  - text: More a poucos minutos de pontos icônicos, desfrute de uma gastronomia renomada e viva perto de tudo, sem abrir mão da tranquilidade.
+                  - text: "Torre única, poucas unidades e plantas amplas que valorizam conforto, integração e elegância. Um projeto pensado nos mínimos detalhes para quem busca mais do que um imóvel: um estilo de vida."
+                  - text: Lazer completo, elevado a outro nível, com espaços que combinam bem-estar, exclusividade e experiências únicas todos os dias.
+                  - text: 👉 Deslize o carrossel e descubra cada detalhe desse lançamento extraordinário.
+                  - text: 📲 Agende sua visita com um de nossos Corretores Associados Lopes.
+            - button "Carregar mais comentários" [ref=e127] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e129]
+            - generic [ref=e131]:
+              - generic [ref=e134]:
+                - link "Foto do perfil de marciacgracindo" [ref=e137] [cursor=pointer]:
+                  - /url: /marciacgracindo/
+                  - img "Foto do perfil de marciacgracindo" [ref=e138]
+                - generic [ref=e140]:
+                  - generic [ref=e142]:
+                    - generic [ref=e143]:
+                      - link "marciacgracindo" [ref=e145] [cursor=pointer]:
+                        - /url: /marciacgracindo/
+                        - generic [ref=e148]: marciacgracindo
+                      - link "2 d" [ref=e150] [cursor=pointer]:
+                        - /url: /p/DW7H9d-jxCe/c/18103905223737404/
+                        - time [ref=e151]: 2 d
+                    - generic [ref=e153]: Empreendimento extraordinário. Plantas modernas com perfeito equilíbrio entre a a área social e íntima dos apartamentos. E o melhor, vista infinita para o Parque da Água Branca com 127 mil metros quadrados de muito verde.
+                  - generic [ref=e154]:
+                    - button "Curtir" [ref=e155] [cursor=pointer]:
+                      - generic [ref=e156]: Curtir
+                    - button "Responder" [ref=e157] [cursor=pointer]:
+                      - generic [ref=e159]: Responder
+              - generic [ref=e162]:
+                - link "Foto do perfil de iagosalloum" [ref=e165] [cursor=pointer]:
+                  - /url: /iagosalloum/
+                  - img "Foto do perfil de iagosalloum" [ref=e166]
+                - generic [ref=e168]:
+                  - generic [ref=e170]:
+                    - generic [ref=e171]:
+                      - link "iagosalloum" [ref=e173] [cursor=pointer]:
+                        - /url: /iagosalloum/
+                        - generic [ref=e176]: iagosalloum
+                      - link "3 d" [ref=e178] [cursor=pointer]:
+                        - /url: /p/DW7H9d-jxCe/c/18069749831663066/
+                        - time [ref=e179]: 3 d
+                    - generic [ref=e181]: 👏👏👏👏👏
+                  - generic [ref=e182]:
+                    - button "Curtir" [ref=e183] [cursor=pointer]:
+                      - generic [ref=e184]: Curtir
+                    - button "Responder" [ref=e185] [cursor=pointer]:
+                      - generic [ref=e187]: Responder
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - button "Curtir" [ref=e193] [cursor=pointer]:
+                  - img "Curtir" [ref=e196]
+                - button "20" [ref=e198] [cursor=pointer]
+                - button "Comentar" [ref=e200] [cursor=pointer]:
+                  - img "Comentar" [ref=e202]
+                - button "2" [ref=e204] [cursor=pointer]
+                - button "Compartilhar" [ref=e205] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e206]
+              - button "Salvar" [ref=e210] [cursor=pointer]:
+                - img "Salvar" [ref=e212]
+            - link "há 3 dias" [ref=e216] [cursor=pointer]:
+              - /url: /lopesimoveis/p/DW7H9d-jxCe/
+              - time [ref=e218]: há 3 dias
+          - generic [ref=e223]:
+            - link "Entrar" [ref=e224] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Flopesimoveis%2Fp%2FDW7H9d-jxCe%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e226]
+      - generic [ref=e227]:
+        - generic [ref=e229]:
+          - text: Mais posts de
+          - link "lopesimoveis" [ref=e230] [cursor=pointer]:
+            - /url: /lopesimoveis/
+        - generic [ref=e233]:
+          - generic [ref=e234]:
+            - 'link "✨ Nyx Paraíso Home Boutique: a essência do alto padrão urbano no coração de São Paulo. Viva a poucos passos do metrô Paraíso e a minutos da Av. Paulista, com a cidade inteira ao seu redor. Um projeto contemporâneo que une arquitetura sofisticada, design assinado e acabamentos impecáveis para quem valoriza exclusividade em cada detalhe. Com plantas inteligentes de 1 e 2 dormitórios, incluindo opções Garden, o Nyx foi pensado para um estilo de vida dinâmico e elegante. Desfrute de rooftop com piscina e solarium, academia completa, espaços gourmet e infraestrutura de coworking — tudo para equilibrar bem-estar, lazer e produtividade. 📍 Rua Afonso de Freitas, 45 - Paraíso - São Paulo/SP ✨ Mais do que morar, é viver com sofisticação em um dos endereços mais desejados da cidade. #AltoPadraoSP #ImoveisDeLuxo #VivaSaoPaulo #ParaísoSP #MercadoImobiliario Carrossel" [ref=e236] [cursor=pointer]':
+              - /url: /lopesimoveis/p/DWmnxqdEuXx/
+              - 'img "✨ Nyx Paraíso Home Boutique: a essência do alto padrão urbano no coração de São Paulo. Viva a poucos passos do metrô Paraíso e a minutos da Av. Paulista, com a cidade inteira ao seu redor. Um projeto contemporâneo que une arquitetura sofisticada, design assinado e acabamentos impecáveis para quem valoriza exclusividade em cada detalhe. Com plantas inteligentes de 1 e 2 dormitórios, incluindo opções Garden, o Nyx foi pensado para um estilo de vida dinâmico e elegante. Desfrute de rooftop com piscina e solarium, academia completa, espaços gourmet e infraestrutura de coworking — tudo para equilibrar bem-estar, lazer e produtividade. 📍 Rua Afonso de Freitas, 45 - Paraíso - São Paulo/SP ✨ Mais do que morar, é viver com sofisticação em um dos endereços mais desejados da cidade. #AltoPadraoSP #ImoveisDeLuxo #VivaSaoPaulo #ParaísoSP #MercadoImobiliario" [ref=e239]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link [ref=e242] [cursor=pointer]:
+              - /url: /lopesimoveis/p/DWWTrx6Dwvf/
+              - img [ref=e245]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link [ref=e248] [cursor=pointer]:
+              - /url: /lopesimoveis/reel/DW9y0zfD5VU/
+              - img [ref=e251]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e253]:
+            - 'link "🚨 URGENTE: O que estão descobrindo no lado oculto da Lua pode mudar o futuro da humanidade… Enquanto cientistas exploram novos territórios lá fora, uma coisa já é certa aqui na Terra: realizar o sonho da casa própria nunca foi tão possível. 🌍✨ E falando em conquistar… 🏡 o seu primeiro imóvel não precisa ser um mistério complicado. E você pode saber mais sobre o seu benefício do Minha Casa Minha Vida no site da Lopes, link na bio. 🔗 Com a Lopes Econômico, você sai do mundo das dúvidas e entra na realidade do seu próprio lar com clareza, segurança e zero dor de cabeça. 🔑 O futuro chega pra quem decide dar o primeiro passo hoje. . . . . . . . #DiretoDaLua #LadoOcultoDaLua #DeOutroMundo #TecnologiaEspacial #ExploracaoEspacial Carrossel" [ref=e255] [cursor=pointer]':
+              - /url: /lopeseconomico/p/DW9yhPHEfCu/
+              - 'img "🚨 URGENTE: O que estão descobrindo no lado oculto da Lua pode mudar o futuro da humanidade… Enquanto cientistas exploram novos territórios lá fora, uma coisa já é certa aqui na Terra: realizar o sonho da casa própria nunca foi tão possível. 🌍✨ E falando em conquistar… 🏡 o seu primeiro imóvel não precisa ser um mistério complicado. E você pode saber mais sobre o seu benefício do Minha Casa Minha Vida no site da Lopes, link na bio. 🔗 Com a Lopes Econômico, você sai do mundo das dúvidas e entra na realidade do seu próprio lar com clareza, segurança e zero dor de cabeça. 🔑 O futuro chega pra quem decide dar o primeiro passo hoje. . . . . . . . #DiretoDaLua #LadoOcultoDaLua #DeOutroMundo #TecnologiaEspacial #ExploracaoEspacial" [ref=e258]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "🎬✨ Vem aí mais um episódio do quadro Minha Vida na Lopes! Uma série feita para inspirar, conectar e mostrar histórias reais de quem vive o mercado imobiliário todos os dias 💼🏡 Aqui, você acompanha trajetórias, desafios e conquistas de quem está construindo resultados de verdade 🚀 E dessa vez, o destaque vai para ele: nosso corretor Daniel 👏 Mesmo sendo novo na Lopes, ele já vem se destacando e mostrando que chegou para fazer a diferença! Neste episódio, Daniel conta como foi seu início, os aprendizados dos primeiros passos e como já está conquistando seus resultados no mercado 🔥 Se você busca evolução, atitude e inspiração, esse conteúdo é pra você! ▶️ Dá o play e vem conhecer essa história! #MercadoImobiliario #CorretorDeImoveis #Lopes #Vendas #SucessoImobiliario Clipe" [ref=e261] [cursor=pointer]':
+              - /url: /meucoracaoelopes/reel/DW7LX2ckdzV/
+              - 'img "🎬✨ Vem aí mais um episódio do quadro Minha Vida na Lopes! Uma série feita para inspirar, conectar e mostrar histórias reais de quem vive o mercado imobiliário todos os dias 💼🏡 Aqui, você acompanha trajetórias, desafios e conquistas de quem está construindo resultados de verdade 🚀 E dessa vez, o destaque vai para ele: nosso corretor Daniel 👏 Mesmo sendo novo na Lopes, ele já vem se destacando e mostrando que chegou para fazer a diferença! Neste episódio, Daniel conta como foi seu início, os aprendizados dos primeiros passos e como já está conquistando seus resultados no mercado 🔥 Se você busca evolução, atitude e inspiração, esse conteúdo é pra você! ▶️ Dá o play e vem conhecer essa história! #MercadoImobiliario #CorretorDeImoveis #Lopes #Vendas #SucessoImobiliario" [ref=e264]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "O sonho da casa própria começa aqui. 🏡❤️ Assim foi a inauguração da nova unidade Lopes Econômico, um momento de conexão, propósito e muita energia para transformar vidas através do acesso à moradia. Com um time engajado, parceiros presentes e uma liderança forte, a diretora Yanca assume a unidade com o compromisso de aproximar ainda mais pessoas da conquista do seu lar — especialmente por meio de soluções como o Minha Casa Minha Vida. Mais do que uma inauguração, foi o início de uma nova jornada. 🚀 Clipe" [ref=e267] [cursor=pointer]:
+              - /url: /lopeseconomico/reel/DW4vDUPkcs9/
+              - img "O sonho da casa própria começa aqui. 🏡❤️ Assim foi a inauguração da nova unidade Lopes Econômico, um momento de conexão, propósito e muita energia para transformar vidas através do acesso à moradia. Com um time engajado, parceiros presentes e uma liderança forte, a diretora Yanca assume a unidade com o compromisso de aproximar ainda mais pessoas da conquista do seu lar — especialmente por meio de soluções como o Minha Casa Minha Vida. Mais do que uma inauguração, foi o início de uma nova jornada. 🚀" [ref=e270]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e272]:
+            - 'link "🏡 Você sabia, vizinho? 👀 Hoje o papo é sério (mas rapidinho): o que pode acontecer se você atrasar ou não pagar o condomínio em dia? Muita gente acha que é “de boa” deixar pra depois… mas o condomínio não é só um boleto qualquer 💸 Quando atrasa, podem rolar: ⚠️ Multa e juros ⚠️ Cobrança judicial ⚠️ E até complicações maiores no seu nome Além disso, o valor do condomínio mantém tudo funcionando: portaria, limpeza, segurança, manutenção… ou seja, o seu próprio conforto no dia a dia 🏢✨ 👉 Se apertar, o melhor caminho é sempre conversar e buscar uma solução Ficar em dia evita dor de cabeça e mantém a boa convivência com todo mundo 😉 #Condominio #VidaEmCondominio #DicasDoDia #SeuApê #MorarBem Clipe" [ref=e274] [cursor=pointer]':
+              - /url: /lopesimoveis/reel/DW16pM2j_wI/
+              - 'img "🏡 Você sabia, vizinho? 👀 Hoje o papo é sério (mas rapidinho): o que pode acontecer se você atrasar ou não pagar o condomínio em dia? Muita gente acha que é “de boa” deixar pra depois… mas o condomínio não é só um boleto qualquer 💸 Quando atrasa, podem rolar: ⚠️ Multa e juros ⚠️ Cobrança judicial ⚠️ E até complicações maiores no seu nome Além disso, o valor do condomínio mantém tudo funcionando: portaria, limpeza, segurança, manutenção… ou seja, o seu próprio conforto no dia a dia 🏢✨ 👉 Se apertar, o melhor caminho é sempre conversar e buscar uma solução Ficar em dia evita dor de cabeça e mantém a boa convivência com todo mundo 😉 #Condominio #VidaEmCondominio #DicasDoDia #SeuApê #MorarBem" [ref=e277]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "Comprar o primeiro imóvel não é impossível, só falta a informação certa Existem muitos mitos que acabam travando quem poderia já estar dando esse passo hoje, principalmente com programas como o Minha Casa Minha Vida. A verdade é que, com a orientação certa, tudo fica mais simples, mais claro e muito mais possível. Me conta: qual desses mitos você já acreditou? Se quiser entender seu perfil e ver as melhores oportunidades pra você, fala com a Lopes. A gente te ajuda em todo o processo❤️ Carrossel" [ref=e280] [cursor=pointer]':
+              - /url: /lopeseconomico/p/DW1yqacETw-/
+              - 'img "Comprar o primeiro imóvel não é impossível, só falta a informação certa Existem muitos mitos que acabam travando quem poderia já estar dando esse passo hoje, principalmente com programas como o Minha Casa Minha Vida. A verdade é que, com a orientação certa, tudo fica mais simples, mais claro e muito mais possível. Me conta: qual desses mitos você já acreditou? Se quiser entender seu perfil e ver as melhores oportunidades pra você, fala com a Lopes. A gente te ajuda em todo o processo❤️" [ref=e283]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+        - generic [ref=e286]:
+          - link "Ver mais posts" [ref=e288] [cursor=pointer]:
+            - /url: /lopesimoveis/
+            - generic [ref=e289]: Ver mais posts
+          - separator [ref=e290]
+  - contentinfo [ref=e291]:
+    - generic [ref=e292]:
+      - generic [ref=e294]:
+        - link "Meta" [ref=e296] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e297]: Meta
+        - link "Sobre" [ref=e299] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e300]: Sobre
+        - link "Blog" [ref=e302] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e303]: Blog
+        - link "Carreiras" [ref=e305] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e306]: Carreiras
+        - link "Ajuda" [ref=e308] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e309]: Ajuda
+        - link "API" [ref=e311] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e312]: API
+        - link "Privacidade" [ref=e314] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e315]: Privacidade
+        - link "Termos" [ref=e317] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e318]: Termos
+        - link "Localizações" [ref=e320] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e321]: Localizações
+        - link "Instagram Lite" [ref=e323] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e324]: Instagram Lite
+        - link "Meta AI" [ref=e326] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e327]: Meta AI
+        - link "Threads" [ref=e329] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e330]: Threads
+        - link "Upload de contatos e não usuários" [ref=e332] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e333]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e335] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e336]: Meta Verified
+      - generic [ref=e337]:
+        - generic [ref=e338] [cursor=pointer]:
+          - generic [ref=e339]:
+            - generic [ref=e340]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e343]
+          - combobox "Trocar idioma de exibição" [ref=e345]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e347]: © 2026 Instagram from Meta

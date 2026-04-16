@@ -1,0 +1,8 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Banheiro
+    - generic [ref=e9]: OFURÔ
+    - generic [ref=e10]: Banheira moderna com aquecimento automático

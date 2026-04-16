@@ -1,0 +1,37 @@
+name: Publicar Posts Instagram
+
+on:
+  schedule:
+    # Roda a cada 15 minutos para checar se tem post agendado
+    - cron: '0,15,30,45 * * * *'
+  # Permite disparar manualmente pelo GitHub (útil para testes)
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # necessário para commitar o scheduled-posts.json atualizado
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Publicar posts agendados
+        env:
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+        run: node run-scheduled.js
+
+      - name: Salvar resultado no repositório
+        run: |
+          git config user.name "meular-bot"
+          git config user.email "bot@meular.jp"
+          git add scheduled-posts.json
+          git diff --staged --quiet || git commit -m "chore: publicação automática [skip ci]"
+          git push

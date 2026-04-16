@@ -1,0 +1,8 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Lavabo
+    - generic [ref=e9]: LAVABO COMPLETO
+    - generic [ref=e10]: Pia com armário e espelho triplo — espaço pensado para o dia a dia.

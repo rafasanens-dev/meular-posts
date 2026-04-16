@@ -1,0 +1,288 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fserhant%2Fp%2FDW6mTODk5op%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e37]:
+          - generic [ref=e44]:
+            - list [ref=e46]:
+              - listitem [ref=e47]
+              - listitem [ref=e48]:
+                - img [ref=e55]
+              - listitem [ref=e57]:
+                - img [ref=e64]
+            - button [ref=e66] [cursor=pointer]
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - link "Foto do perfil de anncusa.serhantpalmbeach" [ref=e74]:
+                - img "Foto do perfil de anncusa.serhantpalmbeach" [ref=e75]
+              - link "Foto do perfil de serhant" [ref=e78]:
+                - img "Foto do perfil de serhant" [ref=e79]
+            - generic [ref=e84]:
+              - link "serhant" [ref=e86] [cursor=pointer]:
+                - /url: /serhant/
+                - generic [ref=e89]: serhant
+              - text: e
+              - link "anncusa.serhantpalmbeach" [ref=e91] [cursor=pointer]:
+                - /url: /anncusa.serhantpalmbeach/
+                - generic [ref=e94]: anncusa.serhantpalmbeach
+            - button "Mais opções" [ref=e97] [cursor=pointer]:
+              - img "Mais opções" [ref=e100]
+          - separator [ref=e104]
+          - generic [ref=e106]:
+            - generic [ref=e108]:
+              - link "Foto do perfil de serhant" [ref=e110] [cursor=pointer]:
+                - /url: /serhant/
+                - img "Foto do perfil de serhant" [ref=e111]
+              - generic [ref=e115]:
+                - generic [ref=e116]:
+                  - link "serhant Verificado" [ref=e117] [cursor=pointer]:
+                    - /url: /serhant/
+                    - generic [ref=e119]:
+                      - generic [ref=e120]: serhant
+                      - img "Verificado" [ref=e122]
+                  - time [ref=e125]: 3 d
+                - generic [ref=e126]:
+                  - text: 236 Montant Drive, Palm Beach Gardens, FL • $3,597,000
+                  - text: –
+                  - text: Fully renovated with light, modern interiors and a clean, refined aesthetic-Brand new roof providing long-term peace of mind. All impact windows and doors for security, efficiency, and storm protection-Single-story layout with over 3,400 SF under air. Open-concept living spaces with soaring ceilings and abundant natural light. Updated chef's kitchen with custom cabinetry, quartz countertops, and premium appliances. Spacious primary suite with spa-inspired bath and tranquil garden views.
+                  - text: –
+                  - text: For more information on this listing click the link in our bio 🏡
+                  - text: –
+                  - text: 236 Montant Drive, Palm Beach Gardens, FL • 3 Beds • 4 Baths • $3,597,000
+                  - text: –
+                  - text: Repped By Ann Cusa (
+                  - link "@anncusa.serhantpalmbeach" [ref=e127] [cursor=pointer]:
+                    - /url: /anncusa.serhantpalmbeach/
+                  - text: )
+            - button "Carregar mais comentários" [ref=e129] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e131]
+            - generic [ref=e136]:
+              - link "Foto do perfil de jennlittlefield702" [ref=e139] [cursor=pointer]:
+                - /url: /jennlittlefield702/
+                - img "Foto do perfil de jennlittlefield702" [ref=e140]
+              - generic [ref=e142]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]:
+                    - link "jennlittlefield702 Verificado" [ref=e147] [cursor=pointer]:
+                      - /url: /jennlittlefield702/
+                      - generic [ref=e149]:
+                        - generic [ref=e150]: jennlittlefield702
+                        - img "Verificado" [ref=e152]
+                    - link "2 d" [ref=e155] [cursor=pointer]:
+                      - /url: /p/DW6mTODk5op/c/18206474086331759/
+                      - time [ref=e156]: 2 d
+                  - generic [ref=e158]: Beautiful. 😍
+                - generic [ref=e159]:
+                  - button "Curtir" [ref=e160] [cursor=pointer]:
+                    - generic [ref=e161]: Curtir
+                  - button "Responder" [ref=e162] [cursor=pointer]:
+                    - generic [ref=e164]: Responder
+          - generic [ref=e165]:
+            - generic [ref=e166]:
+              - generic [ref=e167]:
+                - button "Curtir" [ref=e170] [cursor=pointer]:
+                  - img "Curtir" [ref=e173]
+                - button "58" [ref=e175] [cursor=pointer]
+                - button "Comentar" [ref=e177] [cursor=pointer]:
+                  - img "Comentar" [ref=e179]
+                - button "1" [ref=e181] [cursor=pointer]
+                - button "Compartilhar" [ref=e182] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e183]
+              - button "Salvar" [ref=e187] [cursor=pointer]:
+                - img "Salvar" [ref=e189]
+            - link "há 3 dias" [ref=e193] [cursor=pointer]:
+              - /url: /serhant/p/DW6mTODk5op/
+              - time [ref=e195]: há 3 dias
+          - generic [ref=e200]:
+            - link "Entrar" [ref=e201] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fserhant%2Fp%2FDW6mTODk5op%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e203]
+      - generic [ref=e204]:
+        - generic [ref=e206]:
+          - text: Mais posts de
+          - link "serhant" [ref=e207] [cursor=pointer]:
+            - /url: /serhant/
+        - generic [ref=e210]:
+          - generic [ref=e211]:
+            - link "Photo shared by Owning Manhattan on December 05, 2025 tagging @isaiahgill.photo, @worldofwonder, @ryanserhant, @serhant, and @serhantstudios." [ref=e213] [cursor=pointer]:
+              - /url: /owningmanhattan/p/DR4fXNlk6tD/
+              - img "Photo shared by Owning Manhattan on December 05, 2025 tagging @isaiahgill.photo, @worldofwonder, @ryanserhant, @serhant, and @serhantstudios." [ref=e216]
+            - link "Happy 5-Year Anniversary @serhant from The Office’s @rainnwilson Clipe" [ref=e219] [cursor=pointer]:
+              - /url: /ryanserhant/reel/DOrMf_5jn9K/
+              - img "Happy 5-Year Anniversary @serhant from The Office’s @rainnwilson" [ref=e222]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link "Unlock the future of real estate with S.MPLE by SERHANT. 🚀 As we mark our fourth anniversary, embrace a revolution in real estate that simplifies your work and enhances your life. We're transforming how real estate agents get work done. ㅤ S.MPLE acts as Instacart or Amazon Prime for real estate salespeople, streamlining your administrative tasks and transactions so you can focus on what truly matters—your clients and your sales. Imagine having more time for the meaningful parts of your business and life, with all the tedious work handled seamlessly in the background. ㅤ Ready to reclaim your time and redefine real estate? Dive into the future with S.MPLE, and see why SERHANT. continues to lead the way in innovation. Clipe" [ref=e225] [cursor=pointer]:
+              - /url: /serhant/reel/DAQ2FpWqaC5/
+              - img "Unlock the future of real estate with S.MPLE by SERHANT. 🚀 As we mark our fourth anniversary, embrace a revolution in real estate that simplifies your work and enhances your life. We're transforming how real estate agents get work done. ㅤ S.MPLE acts as Instacart or Amazon Prime for real estate salespeople, streamlining your administrative tasks and transactions so you can focus on what truly matters—your clients and your sales. Imagine having more time for the meaningful parts of your business and life, with all the tedious work handled seamlessly in the background. ㅤ Ready to reclaim your time and redefine real estate? Dive into the future with S.MPLE, and see why SERHANT. continues to lead the way in innovation." [ref=e228]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e230]:
+            - link [ref=e232] [cursor=pointer]:
+              - /url: /serhant/p/DW9XNVek6L2/
+              - img [ref=e235]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link "4027 Colonel Mendez Way, Fairfax, VA • $1,500,000 – Built in 2011 with historical details. Welcome to the Powell-Ostrander House, a truly one-of-a-kind residence that blends the charm of the original 1800s farmhouse with the comfort and luxury of a custom home built in 2011. Offering nearly 5,000 square feet, this remarkable property features five bedrooms, five full bathrooms, and one half bath, combining historic character with modern design. Set at the end of a quiet cul-de-sac in a private community, the home sits on a serene quarter-acre lot surrounded by landscaped grounds and green space with a pergola. An expansive front porch provides the perfect place to relax or entertain. – For more information on this listing click the link in our bio 🏡 – 4027 Colonel Mendez Way, Fairfax, VA • 5 Beds • 5 Full Baths • 1 Half Bath • $1,500,000 – Repped By Kat Massetti (@katmassetti) Clipe" [ref=e238] [cursor=pointer]:
+              - /url: /serhant/reel/DW9QRrKDjo5/
+              - img "4027 Colonel Mendez Way, Fairfax, VA • $1,500,000 – Built in 2011 with historical details. Welcome to the Powell-Ostrander House, a truly one-of-a-kind residence that blends the charm of the original 1800s farmhouse with the comfort and luxury of a custom home built in 2011. Offering nearly 5,000 square feet, this remarkable property features five bedrooms, five full bathrooms, and one half bath, combining historic character with modern design. Set at the end of a quiet cul-de-sac in a private community, the home sits on a serene quarter-acre lot surrounded by landscaped grounds and green space with a pergola. An expansive front porch provides the perfect place to relax or entertain. – For more information on this listing click the link in our bio 🏡 – 4027 Colonel Mendez Way, Fairfax, VA • 5 Beds • 5 Full Baths • 1 Half Bath • $1,500,000 – Repped By Kat Massetti (@katmassetti)" [ref=e241]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - 'link "SERHANT. Signature: 435 Henry Street, Brooklyn, NY • $12,995,000 – 435 Henry Street is one of the most remarkable townhouses in Cobble Hill. At 24 feet wide and nearly 8,000 square feet, this mint condition residence offers exceptional scale along with a private garage, guest house, and beautifully landscaped garden. Built from the ground up with a concrete structure and brick facade, the home was designed by architect Brendan Coburn of The Brooklyn Studio and constructed by Interior Alterations. The solid construction creates an exceptionally quiet and private environment, while three exposures bring natural light throughout the home. – For more information on this listing click the link in our bio 🏡 – 435 Henry Street, Brooklyn, NY • 6 Beds • 6 Full Baths • 2 Half Baths • $12,995,000 – Repped By Ravi Kantha (@ravi.a.kantha) Cameron LeCates (@cslecates) Clipe" [ref=e244] [cursor=pointer]':
+              - /url: /serhant/reel/DW9CsJ5AuAH/
+              - 'img "SERHANT. Signature: 435 Henry Street, Brooklyn, NY • $12,995,000 – 435 Henry Street is one of the most remarkable townhouses in Cobble Hill. At 24 feet wide and nearly 8,000 square feet, this mint condition residence offers exceptional scale along with a private garage, guest house, and beautifully landscaped garden. Built from the ground up with a concrete structure and brick facade, the home was designed by architect Brendan Coburn of The Brooklyn Studio and constructed by Interior Alterations. The solid construction creates an exceptionally quiet and private environment, while three exposures bring natural light throughout the home. – For more information on this listing click the link in our bio 🏡 – 435 Henry Street, Brooklyn, NY • 6 Beds • 6 Full Baths • 2 Half Baths • $12,995,000 – Repped By Ravi Kantha (@ravi.a.kantha) Cameron LeCates (@cslecates)" [ref=e247]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+          - generic [ref=e249]:
+            - link "Does @dylanefron help you kick off your sales huddle? Didn’t think so! Today’s Q1 Sales Huddle brought agents together from all over, tuning in virtually and showing up in a big way to recap one of our biggest quarters to date. Huge wins, real momentum, and a clear focus on what’s next. If this is how we’re starting the year, Q2 is about to go even bigger 🚀 Clipe" [ref=e251] [cursor=pointer]:
+              - /url: /serhant/reel/DW7Njv6PSwL/
+              - img "Does @dylanefron help you kick off your sales huddle? Didn’t think so! Today’s Q1 Sales Huddle brought agents together from all over, tuning in virtually and showing up in a big way to recap one of our biggest quarters to date. Huge wins, real momentum, and a clear focus on what’s next. If this is how we’re starting the year, Q2 is about to go even bigger 🚀" [ref=e254]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+            - link [ref=e257] [cursor=pointer]:
+              - /url: /serhant/p/DW7ACdCk_oL/
+              - img [ref=e260]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - link "Anyone recognize this spot? Hint in the comments! 👀 ㅤ Tucked along the East River, Sutton Square is one of Manhattan’s best kept secrets, where historic townhomes, private gardens, and total privacy feel worlds away from the city. ㅤ At the center of it all, 6 Sutton Square delivers something almost impossible to find. A fully reimagined Neo Georgian mansion spanning 8,500 square feet, with seven bedrooms, layered terraces, and sunlit interiors that capture the river from every angle. ㅤ But the real flex? A private 12,000 square foot riverfront garden reserved only for residents, plus a rooftop built for hosting with skyline views that never get old. ㅤ Contact Lauren Mitinas-Kelly (@inlaurenwetrustnyc) at SERHANT. for more information on 6 Sutton Square. ✨ Clipe" [ref=e263] [cursor=pointer]:
+              - /url: /listedbyserhant/reel/DW6vzc7DDkH/
+              - img "Anyone recognize this spot? Hint in the comments! 👀 ㅤ Tucked along the East River, Sutton Square is one of Manhattan’s best kept secrets, where historic townhomes, private gardens, and total privacy feel worlds away from the city. ㅤ At the center of it all, 6 Sutton Square delivers something almost impossible to find. A fully reimagined Neo Georgian mansion spanning 8,500 square feet, with seven bedrooms, layered terraces, and sunlit interiors that capture the river from every angle. ㅤ But the real flex? A private 12,000 square foot riverfront garden reserved only for residents, plus a rooftop built for hosting with skyline views that never get old. ㅤ Contact Lauren Mitinas-Kelly (@inlaurenwetrustnyc) at SERHANT. for more information on 6 Sutton Square. ✨" [ref=e266]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clipe"
+        - generic [ref=e268]:
+          - link "Ver mais posts" [ref=e270] [cursor=pointer]:
+            - /url: /serhant/
+            - generic [ref=e271]: Ver mais posts
+          - separator [ref=e272]
+  - contentinfo [ref=e273]:
+    - generic [ref=e274]:
+      - generic [ref=e276]:
+        - link "Meta" [ref=e278] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e279]: Meta
+        - link "Sobre" [ref=e281] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e282]: Sobre
+        - link "Blog" [ref=e284] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e285]: Blog
+        - link "Carreiras" [ref=e287] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e288]: Carreiras
+        - link "Ajuda" [ref=e290] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e291]: Ajuda
+        - link "API" [ref=e293] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e294]: API
+        - link "Privacidade" [ref=e296] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e297]: Privacidade
+        - link "Termos" [ref=e299] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e300]: Termos
+        - link "Localizações" [ref=e302] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e303]: Localizações
+        - link "Instagram Lite" [ref=e305] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e306]: Instagram Lite
+        - link "Meta AI" [ref=e308] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e309]: Meta AI
+        - link "Threads" [ref=e311] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e312]: Threads
+        - link "Upload de contatos e não usuários" [ref=e314] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e315]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e317] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e318]: Meta Verified
+      - generic [ref=e319]:
+        - generic [ref=e320] [cursor=pointer]:
+          - generic [ref=e321]:
+            - generic [ref=e322]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e325]
+          - combobox "Trocar idioma de exibição" [ref=e327]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e329]: © 2026 Instagram from Meta

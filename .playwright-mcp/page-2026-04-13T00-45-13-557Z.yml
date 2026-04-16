@@ -1,0 +1,527 @@
+- generic [ref=e11]:
+  - generic [ref=e13]:
+    - link "Instagram" [ref=e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=e19]
+    - generic [ref=e24]:
+      - link "Entrar" [ref=e26] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Fluxury_listings%2Fp%2FDXCFXqVlGW0%2F&source=desktop_nav
+      - link "Cadastre-se" [ref=e28] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=e29]:
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e37]:
+          - generic [ref=e44]:
+            - list [ref=e46]:
+              - listitem [ref=e47]
+              - listitem [ref=e48]:
+                - img [ref=e55]
+              - listitem [ref=e57]:
+                - generic [ref=e62] [cursor=pointer]:
+                  - button [ref=e63]:
+                    - img [ref=e65]
+                  - button [ref=e68]:
+                    - img [ref=e70]
+            - button [ref=e72] [cursor=pointer]
+        - generic [ref=e75]:
+          - generic [ref=e77]:
+            - generic [ref=e79]:
+              - link "Foto do perfil de theagencyre" [ref=e80]:
+                - img "Foto do perfil de theagencyre" [ref=e81]
+              - link "Foto do perfil de luxury_listings" [ref=e84]:
+                - img "Foto do perfil de luxury_listings" [ref=e85]
+            - generic [ref=e87]:
+              - generic [ref=e90]:
+                - link "luxury_listings" [ref=e92] [cursor=pointer]:
+                  - /url: /luxury_listings/
+                  - generic [ref=e95]: luxury_listings
+                - text: e
+                - link "theagencyre" [ref=e97] [cursor=pointer]:
+                  - /url: /theagencyre/
+                  - generic [ref=e100]: theagencyre
+              - link "Palm Desert" [ref=e104] [cursor=pointer]:
+                - /url: /explore/locations/215460507/palm-desert/
+            - button "Mais opções" [ref=e107] [cursor=pointer]:
+              - img "Mais opções" [ref=e110]
+          - separator [ref=e114]
+          - generic [ref=e116]:
+            - generic [ref=e118]:
+              - link "Foto do perfil de luxury_listings" [ref=e120] [cursor=pointer]:
+                - /url: /luxury_listings/
+                - img "Foto do perfil de luxury_listings" [ref=e121]
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - link "luxury_listings Verificado" [ref=e127] [cursor=pointer]:
+                    - /url: /luxury_listings/
+                    - generic [ref=e129]:
+                      - generic [ref=e130]: luxury_listings
+                      - img "Verificado" [ref=e132]
+                  - time [ref=e135]: 11 h
+                - generic [ref=e136]:
+                  - text: Perched above the desert in Palm Desert, this $5,600,000 estate feels more like a private retreat than a residence.
+                  - text: Set across 18 acres, the compound offers scale, privacy, and uninterrupted panoramic views over the valley and surrounding mountains.
+                  - text: What makes it truly unique is how it lives outdoors. A tennis court is seamlessly carved into the desert landscape, blending into its surroundings in a way that feels almost untouched. Paired with resort-style amenities, open-air living spaces, and total seclusion, it creates a setting that’s equal parts escape and experience.
+                  - text: Perfect for someone who values space, nature, and the freedom to disconnect without leaving everything behind.
+                  - text: Listed at $5,600,000 by
+                  - link "@michelleschwartzrealtor" [ref=e137] [cursor=pointer]:
+                    - /url: /michelleschwartzrealtor/
+                  - link "@adrienneherkes" [ref=e138] [cursor=pointer]:
+                    - /url: /adrienneherkes/
+                  - link "@theagencyre" [ref=e139] [cursor=pointer]:
+                    - /url: /theagencyre/
+                  - text: Would you use this more as a getaway… or a full-time residence?
+                  - link "#palmdesert" [ref=e140] [cursor=pointer]:
+                    - /url: /explore/tags/palmdesert/
+                  - link "#desert" [ref=e141] [cursor=pointer]:
+                    - /url: /explore/tags/desert/
+                  - link "#tennis" [ref=e142] [cursor=pointer]:
+                    - /url: /explore/tags/tennis/
+                  - link "#offthegrid" [ref=e143] [cursor=pointer]:
+                    - /url: /explore/tags/offthegrid/
+            - button "Carregar mais comentários" [ref=e145] [cursor=pointer]:
+              - img "Carregar mais comentários" [ref=e147]
+            - generic [ref=e149]:
+              - generic [ref=e152]:
+                - link "Foto do perfil de lin.lin.1989" [ref=e155] [cursor=pointer]:
+                  - /url: /lin.lin.1989/
+                  - img "Foto do perfil de lin.lin.1989" [ref=e156]
+                - generic [ref=e158]:
+                  - generic [ref=e160]:
+                    - generic [ref=e161]:
+                      - link "lin.lin.1989" [ref=e163] [cursor=pointer]:
+                        - /url: /lin.lin.1989/
+                        - generic [ref=e166]: lin.lin.1989
+                      - link "44 min" [ref=e168] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18094491950160250/
+                        - time [ref=e169]: 44 min
+                    - generic [ref=e171]: I love that floor!
+                  - generic [ref=e172]:
+                    - button "Curtir" [ref=e173] [cursor=pointer]:
+                      - generic [ref=e174]: Curtir
+                    - button "Responder" [ref=e175] [cursor=pointer]:
+                      - generic [ref=e177]: Responder
+              - generic [ref=e180]:
+                - link "Foto do perfil de hrt2hrt000" [ref=e183] [cursor=pointer]:
+                  - /url: /hrt2hrt000/
+                  - img "Foto do perfil de hrt2hrt000" [ref=e184]
+                - generic [ref=e186]:
+                  - generic [ref=e188]:
+                    - generic [ref=e189]:
+                      - link "hrt2hrt000" [ref=e191] [cursor=pointer]:
+                        - /url: /hrt2hrt000/
+                        - generic [ref=e194]: hrt2hrt000
+                      - link "1 h" [ref=e196] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18099377686821647/
+                        - time [ref=e197]: 1 h
+                    - generic [ref=e199]: Beautiful views of brown all around. 😬
+                  - generic [ref=e200]:
+                    - button "Curtir" [ref=e201] [cursor=pointer]:
+                      - generic [ref=e202]: Curtir
+                    - button "Responder" [ref=e203] [cursor=pointer]:
+                      - generic [ref=e205]: Responder
+              - generic [ref=e208]:
+                - link "Foto do perfil de vinitmori" [ref=e211] [cursor=pointer]:
+                  - /url: /vinitmori/
+                  - img "Foto do perfil de vinitmori" [ref=e212]
+                - generic [ref=e214]:
+                  - generic [ref=e216]:
+                    - generic [ref=e217]:
+                      - link "vinitmori" [ref=e219] [cursor=pointer]:
+                        - /url: /vinitmori/
+                        - generic [ref=e222]: vinitmori
+                      - link "6 h" [ref=e224] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18079912619112602/
+                        - time [ref=e225]: 6 h
+                    - generic [ref=e227]: 😍
+                  - generic [ref=e228]:
+                    - button "Curtir" [ref=e229] [cursor=pointer]:
+                      - generic [ref=e230]: Curtir
+                    - button "Responder" [ref=e231] [cursor=pointer]:
+                      - generic [ref=e233]: Responder
+              - generic [ref=e236]:
+                - link "Foto do perfil de liveforclass" [ref=e239] [cursor=pointer]:
+                  - /url: /liveforclass/
+                  - img "Foto do perfil de liveforclass" [ref=e240]
+                - generic [ref=e242]:
+                  - generic [ref=e244]:
+                    - generic [ref=e245]:
+                      - link "liveforclass" [ref=e247] [cursor=pointer]:
+                        - /url: /liveforclass/
+                        - generic [ref=e250]: liveforclass
+                      - link "6 h" [ref=e252] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18000084668869907/
+                        - time [ref=e253]: 6 h
+                    - generic [ref=e255]: 😍😍😍
+                  - generic [ref=e256]:
+                    - button "Curtir" [ref=e257] [cursor=pointer]:
+                      - generic [ref=e258]: Curtir
+                    - button "Responder" [ref=e259] [cursor=pointer]:
+                      - generic [ref=e261]: Responder
+              - generic [ref=e264]:
+                - link "Foto do perfil de theagencynewyork" [ref=e267] [cursor=pointer]:
+                  - /url: /theagencynewyork/
+                  - img "Foto do perfil de theagencynewyork" [ref=e268]
+                - generic [ref=e270]:
+                  - generic [ref=e272]:
+                    - generic [ref=e273]:
+                      - link "theagencynewyork" [ref=e275] [cursor=pointer]:
+                        - /url: /theagencynewyork/
+                        - generic [ref=e278]: theagencynewyork
+                      - link "7 h" [ref=e280] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18119035108573922/
+                        - time [ref=e281]: 7 h
+                    - generic [ref=e283]: True resort-style living at its finest
+                  - generic [ref=e284]:
+                    - button "Curtir" [ref=e285] [cursor=pointer]:
+                      - generic [ref=e286]: Curtir
+                    - button "Responder" [ref=e287] [cursor=pointer]:
+                      - generic [ref=e289]: Responder
+              - generic [ref=e292]:
+                - link "Foto do perfil de theagency_socal" [ref=e295] [cursor=pointer]:
+                  - /url: /theagency_socal/
+                  - img "Foto do perfil de theagency_socal" [ref=e296]
+                - generic [ref=e298]:
+                  - generic [ref=e300]:
+                    - generic [ref=e301]:
+                      - link "theagency_socal" [ref=e303] [cursor=pointer]:
+                        - /url: /theagency_socal/
+                        - generic [ref=e306]: theagency_socal
+                      - link "8 h" [ref=e308] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/17849310690680419/
+                        - time [ref=e309]: 8 h
+                    - generic [ref=e311]: Imagine waking up to this every day
+                  - generic [ref=e312]:
+                    - button "1 curtida" [ref=e313] [cursor=pointer]:
+                      - generic [ref=e315]: 1 curtida
+                    - button "Responder" [ref=e316] [cursor=pointer]:
+                      - generic [ref=e318]: Responder
+              - generic [ref=e321]:
+                - link "Foto do perfil de theagencynorcal" [ref=e324] [cursor=pointer]:
+                  - /url: /theagencynorcal/
+                  - img "Foto do perfil de theagencynorcal" [ref=e325]
+                - generic [ref=e327]:
+                  - generic [ref=e329]:
+                    - generic [ref=e330]:
+                      - link "theagencynorcal" [ref=e332] [cursor=pointer]:
+                        - /url: /theagencynorcal/
+                        - generic [ref=e335]: theagencynorcal
+                      - link "8 h" [ref=e337] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18134701381534685/
+                        - time [ref=e338]: 8 h
+                    - generic [ref=e340]: Seamless indoor outdoor perfection
+                  - generic [ref=e341]:
+                    - button "1 curtida" [ref=e342] [cursor=pointer]:
+                      - generic [ref=e344]: 1 curtida
+                    - button "Responder" [ref=e345] [cursor=pointer]:
+                      - generic [ref=e347]: Responder
+              - generic [ref=e350]:
+                - link "Foto do perfil de maybachzach" [ref=e353] [cursor=pointer]:
+                  - /url: /maybachzach/
+                  - img "Foto do perfil de maybachzach" [ref=e354]
+                - generic [ref=e356]:
+                  - generic [ref=e358]:
+                    - generic [ref=e359]:
+                      - link "maybachzach" [ref=e361] [cursor=pointer]:
+                        - /url: /maybachzach/
+                        - generic [ref=e364]: maybachzach
+                      - link "9 h" [ref=e366] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18171352234408287/
+                        - time [ref=e367]: 9 h
+                    - generic [ref=e369]: 🏡 🔑
+                  - generic [ref=e370]:
+                    - button "Curtir" [ref=e371] [cursor=pointer]:
+                      - generic [ref=e372]: Curtir
+                    - button "Responder" [ref=e373] [cursor=pointer]:
+                      - generic [ref=e375]: Responder
+              - generic [ref=e378]:
+                - link "Foto do perfil de millionaire.essentials" [ref=e381] [cursor=pointer]:
+                  - /url: /millionaire.essentials/
+                  - img "Foto do perfil de millionaire.essentials" [ref=e382]
+                - generic [ref=e384]:
+                  - generic [ref=e386]:
+                    - generic [ref=e387]:
+                      - link "millionaire.essentials" [ref=e389] [cursor=pointer]:
+                        - /url: /millionaire.essentials/
+                        - generic [ref=e392]: millionaire.essentials
+                      - link "9 h" [ref=e394] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/17994907115940881/
+                        - time [ref=e395]: 9 h
+                    - generic [ref=e397]: $5.6m for this and 18 acres. Not bad! 🔥
+                  - generic [ref=e398]:
+                    - button "Curtir" [ref=e399] [cursor=pointer]:
+                      - generic [ref=e400]: Curtir
+                    - button "Responder" [ref=e401] [cursor=pointer]:
+                      - generic [ref=e403]: Responder
+              - generic [ref=e406]:
+                - link "Foto do perfil de ig_mansions" [ref=e409] [cursor=pointer]:
+                  - /url: /ig_mansions/
+                  - img "Foto do perfil de ig_mansions" [ref=e410]
+                - generic [ref=e412]:
+                  - generic [ref=e414]:
+                    - generic [ref=e415]:
+                      - link "ig_mansions" [ref=e417] [cursor=pointer]:
+                        - /url: /ig_mansions/
+                        - generic [ref=e420]: ig_mansions
+                      - link "9 h" [ref=e422] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/17855448657690855/
+                        - time [ref=e423]: 9 h
+                    - generic [ref=e425]: In the last photo the house almost looks like it camouflages into its surroundings
+                  - generic [ref=e426]:
+                    - button "Curtir" [ref=e427] [cursor=pointer]:
+                      - generic [ref=e428]: Curtir
+                    - button "Responder" [ref=e429] [cursor=pointer]:
+                      - generic [ref=e431]: Responder
+              - generic [ref=e434]:
+                - link "Foto do perfil de austiinlove" [ref=e437] [cursor=pointer]:
+                  - /url: /austiinlove/
+                  - img "Foto do perfil de austiinlove" [ref=e438]
+                - generic [ref=e440]:
+                  - generic [ref=e442]:
+                    - generic [ref=e443]:
+                      - link "austiinlove" [ref=e445] [cursor=pointer]:
+                        - /url: /austiinlove/
+                        - generic [ref=e448]: austiinlove
+                      - link "10 h" [ref=e450] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/18091721405177584/
+                        - time [ref=e451]: 10 h
+                    - generic [ref=e453]: 5.6 is a STEAL
+                  - generic [ref=e454]:
+                    - button "Curtir" [ref=e455] [cursor=pointer]:
+                      - generic [ref=e456]: Curtir
+                    - button "Responder" [ref=e457] [cursor=pointer]:
+                      - generic [ref=e459]: Responder
+              - generic [ref=e462]:
+                - link "Foto do perfil de carolinasupernova" [ref=e465] [cursor=pointer]:
+                  - /url: /carolinasupernova/
+                  - img "Foto do perfil de carolinasupernova" [ref=e466]
+                - generic [ref=e468]:
+                  - generic [ref=e470]:
+                    - generic [ref=e471]:
+                      - link "carolinasupernova" [ref=e473] [cursor=pointer]:
+                        - /url: /carolinasupernova/
+                        - generic [ref=e476]: carolinasupernova
+                      - link "10 h" [ref=e478] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/17973576827867808/
+                        - time [ref=e479]: 10 h
+                    - generic [ref=e481]: 🔝💯👍
+                  - generic [ref=e482]:
+                    - button "Curtir" [ref=e483] [cursor=pointer]:
+                      - generic [ref=e484]: Curtir
+                    - button "Responder" [ref=e485] [cursor=pointer]:
+                      - generic [ref=e487]: Responder
+              - generic [ref=e490]:
+                - link "Foto do perfil de zoikaziani" [ref=e493] [cursor=pointer]:
+                  - /url: /zoikaziani/
+                  - img "Foto do perfil de zoikaziani" [ref=e494]
+                - generic [ref=e496]:
+                  - generic [ref=e498]:
+                    - generic [ref=e499]:
+                      - link "zoikaziani" [ref=e501] [cursor=pointer]:
+                        - /url: /zoikaziani/
+                        - generic [ref=e504]: zoikaziani
+                      - link "11 h" [ref=e506] [cursor=pointer]:
+                        - /url: /p/DXCFXqVlGW0/c/17920032159318707/
+                        - time [ref=e507]: 11 h
+                    - link "@tennis.homes" [ref=e510] [cursor=pointer]:
+                      - /url: /tennis.homes/
+                  - generic [ref=e511]:
+                    - button "1 curtida" [ref=e512] [cursor=pointer]:
+                      - generic [ref=e514]: 1 curtida
+                    - button "Responder" [ref=e515] [cursor=pointer]:
+                      - generic [ref=e517]: Responder
+          - generic [ref=e518]:
+            - generic [ref=e519]:
+              - generic [ref=e520]:
+                - button "Curtir" [ref=e523] [cursor=pointer]:
+                  - img "Curtir" [ref=e526]
+                - button "Comentar" [ref=e529] [cursor=pointer]:
+                  - img "Comentar" [ref=e531]
+                - button "16" [ref=e533] [cursor=pointer]
+                - button "Compartilhar" [ref=e534] [cursor=pointer]:
+                  - img "Compartilhar" [ref=e535]
+              - button "Salvar" [ref=e539] [cursor=pointer]:
+                - img "Salvar" [ref=e541]
+            - link "há 11 horas" [ref=e545] [cursor=pointer]:
+              - /url: /luxury_listings/p/DXCFXqVlGW0/
+              - time [ref=e547]: há 11 horas
+          - generic [ref=e552]:
+            - link "Entrar" [ref=e553] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Fluxury_listings%2Fp%2FDXCFXqVlGW0%2F&source=post_comment_input
+            - text: para curtir ou comentar.
+      - separator [ref=e555]
+      - generic [ref=e556]:
+        - generic [ref=e558]:
+          - text: Mais posts de
+          - link "luxury_listings" [ref=e559] [cursor=pointer]:
+            - /url: /luxury_listings/
+        - generic [ref=e562]:
+          - generic [ref=e563]:
+            - 'link "Today, we’re featuring the home of a champion. A place away from the spotlight, where focus is built long before wins like this. Rory McIlroy has secured his second consecutive victory at the Masters Tournament, finishing at 12-under-par and holding off Scottie Scheffler by a single stroke. With this win, he becomes just the fourth player in history to defend the green jacket, joining Tiger Woods, Jack Nicklaus, and Nick Faldo. Congratulations, @rorymcilroy #florida #masters #jupiter #golf Carrossel" [ref=e565] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXDVZM8lIQW/
+              - 'img "Today, we’re featuring the home of a champion. A place away from the spotlight, where focus is built long before wins like this. Rory McIlroy has secured his second consecutive victory at the Masters Tournament, finishing at 12-under-par and holding off Scottie Scheffler by a single stroke. With this win, he becomes just the fourth player in history to defend the green jacket, joining Tiger Woods, Jack Nicklaus, and Nick Faldo. Congratulations, @rorymcilroy #florida #masters #jupiter #golf" [ref=e568]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "Summer in Kelowna has a rhythm of its own. Mornings on the lake, long afternoons under the sun, and evenings that stretch just a little longer with good company. From hillside estates overlooking the Okanagan to private waterfront retreats, these homes are less about where you stay and more about how you spend your time. Boating, wine tastings, slow mornings, late dinners, everything feels a bit more intentional here. If you find yourself in Kelowna, connect with @restnestrentals They know these homes, and this lifestyle, better than anyone. #kelowna #vineyard #bc #canada Carrossel" [ref=e571] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXC9XgvEu4V/
+              - 'img "Summer in Kelowna has a rhythm of its own. Mornings on the lake, long afternoons under the sun, and evenings that stretch just a little longer with good company. From hillside estates overlooking the Okanagan to private waterfront retreats, these homes are less about where you stay and more about how you spend your time. Boating, wine tastings, slow mornings, late dinners, everything feels a bit more intentional here. If you find yourself in Kelowna, connect with @restnestrentals They know these homes, and this lifestyle, better than anyone. #kelowna #vineyard #bc #canada" [ref=e574]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "As Sabrina Carpenter takes the stage as one of the headliners at Coachella Valley Music and Arts Festival, this is the home that set the tone behind the scenes. Featured in her “House Tour” music video, this $36,800,000 Hollywood Hills estate feels more like a cinematic set than a residence. Spanning over 13,000 square feet, the home blends modern architecture with bold, high-glam interiors, from green onyx and volcanic stone to sculptural furniture and velvet-lined spaces. Floor-to-ceiling glass opens to sweeping city views, while a hidden speakeasy, statement living areas, and resort-style amenities create a setting designed for both performance and privacy. Listed at $36,800,000 by @williamsandwilliams #housetour #losangeles #coachella #sunset Carrossel" [ref=e577] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXCig-eFLqE/
+              - 'img "As Sabrina Carpenter takes the stage as one of the headliners at Coachella Valley Music and Arts Festival, this is the home that set the tone behind the scenes. Featured in her “House Tour” music video, this $36,800,000 Hollywood Hills estate feels more like a cinematic set than a residence. Spanning over 13,000 square feet, the home blends modern architecture with bold, high-glam interiors, from green onyx and volcanic stone to sculptural furniture and velvet-lined spaces. Floor-to-ceiling glass opens to sweeping city views, while a hidden speakeasy, statement living areas, and resort-style amenities create a setting designed for both performance and privacy. Listed at $36,800,000 by @williamsandwilliams #housetour #losangeles #coachella #sunset" [ref=e580]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+          - generic [ref=e582]:
+            - link [ref=e584] [cursor=pointer]:
+              - /url: /luxury_listings/p/DXBE9EklPO7/
+              - img [ref=e587]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "How does $43,518 per square foot sound for this tiny home in Laguna Beach? Set along Marine Drive in North Laguna, this $18,800,000 oceanfront property includes a 432 square foot century-old seaside cottage, but that’s not what defines it. What you’re really buying is the land. A rare, oversized lot with a gentle slope, southeast exposure, and panoramic coastline views often compared to the French Riviera. A private staircase leads directly to Shaws Cove, one of Laguna’s most beautiful and swimmable beaches. Surrounded by lush, garden-like landscaping and wide lawns, the setting feels peaceful, private, and completely immersed in the sound of the ocean. Not about size. About position. Listed by @garrett_rau @plusrealestategroup #socal #lagunabeach #shawscove #waterfront Carrossel" [ref=e590] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXAurGpGfOV/
+              - 'img "How does $43,518 per square foot sound for this tiny home in Laguna Beach? Set along Marine Drive in North Laguna, this $18,800,000 oceanfront property includes a 432 square foot century-old seaside cottage, but that’s not what defines it. What you’re really buying is the land. A rare, oversized lot with a gentle slope, southeast exposure, and panoramic coastline views often compared to the French Riviera. A private staircase leads directly to Shaws Cove, one of Laguna’s most beautiful and swimmable beaches. Surrounded by lush, garden-like landscaping and wide lawns, the setting feels peaceful, private, and completely immersed in the sound of the ocean. Not about size. About position. Listed by @garrett_rau @plusrealestategroup #socal #lagunabeach #shawscove #waterfront" [ref=e593]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "A closer look at the desert retreat of Justin Bieber. As Coachella Valley Music and Arts Festival takes over the valley, the real scene often shifts just minutes away, behind the gates of The Madison Club. This is where many of the artists, athletes, and insiders actually stay. Private estates, full staff, no crowds, yet still within reach of the festival when they choose to step into it. Bieber’s residence, acquired for around $16.6 million, sits within this ultra-exclusive enclave, offering nearly 10,000 square feet of indoor-outdoor living, a guesthouse, and resort-style amenities designed for the desert lifestyle. Beyond the home, Madison Club offers a members-only golf course, spa, and wellness facilities, creating a completely different Coachella experience, defined by privacy, comfort, and control. Two worlds, minutes apart. #madisonclub #residence #coachella #laquinta Carrossel" [ref=e596] [cursor=pointer]':
+              - /url: /luxury_listings/p/DXAW2fDErgs/
+              - 'img "A closer look at the desert retreat of Justin Bieber. As Coachella Valley Music and Arts Festival takes over the valley, the real scene often shifts just minutes away, behind the gates of The Madison Club. This is where many of the artists, athletes, and insiders actually stay. Private estates, full staff, no crowds, yet still within reach of the festival when they choose to step into it. Bieber’s residence, acquired for around $16.6 million, sits within this ultra-exclusive enclave, offering nearly 10,000 square feet of indoor-outdoor living, a guesthouse, and resort-style amenities designed for the desert lifestyle. Beyond the home, Madison Club offers a members-only golf course, spa, and wellness facilities, creating a completely different Coachella experience, defined by privacy, comfort, and control. Two worlds, minutes apart. #madisonclub #residence #coachella #laquinta" [ref=e599]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+          - generic [ref=e601]:
+            - 'link "Set within the alpine terrain of Queenstown, this architectural retreat was designed not to stand out—but to disappear. Known as Hidden Island, the residence is carved directly into the hillside, using local schist stone, cedar, and glass to mirror the surrounding landscape. Two sculptural volumes are connected by a transparent gallery, allowing the home to unfold quietly against the backdrop of the Remarkables and Lake Wakatipu. ￼ Inside, the focus shifts entirely to the view. Every space opens to terraces and a reflecting pond, creating a seamless connection between architecture and nature. ￼ Rather than competing with its environment, this home is defined by restraint, designed to feel as though it has always been part of the land. A different expression of luxury. Designed by @masonandwalesarchitects #newzealand #queenstown #residence #architecture Carrossel" [ref=e603] [cursor=pointer]':
+              - /url: /luxury_listings/p/DW-Tv9UFI9C/
+              - 'img "Set within the alpine terrain of Queenstown, this architectural retreat was designed not to stand out—but to disappear. Known as Hidden Island, the residence is carved directly into the hillside, using local schist stone, cedar, and glass to mirror the surrounding landscape. Two sculptural volumes are connected by a transparent gallery, allowing the home to unfold quietly against the backdrop of the Remarkables and Lake Wakatipu. ￼ Inside, the focus shifts entirely to the view. Every space opens to terraces and a reflecting pond, creating a seamless connection between architecture and nature. ￼ Rather than competing with its environment, this home is defined by restraint, designed to feel as though it has always been part of the land. A different expression of luxury. Designed by @masonandwalesarchitects #newzealand #queenstown #residence #architecture" [ref=e606]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+            - 'link "Tucked behind private grounds in Gilbert, this $5,999,000 estate feels more like a private resort than a residence. Set across 1.39 acres, the 7,850 square foot home is designed for both everyday living and full-scale entertaining, with six bedrooms, a detached guest casita, and expansive indoor spaces. What sets it apart is everything outside. A resort-style pool with a waterfall anchors the backyard, surrounded by a pickleball court, basketball trampoline, go-kart track, and mini putt course, creating a setting built for both kids and adults alike. Inside, a dedicated game room and a 12 car garage which adds another layer to the experience. A rare blend of space, privacy, and lifestyle in one of Arizona’s fastest-growing areas. Listed by @allyswopes Would you rather have this… or a Scottsdale estate? #gilbert #arizona #gokart #pickleball Carrossel" [ref=e609] [cursor=pointer]':
+              - /url: /luxury_listings/p/DW7o4tjDzec/
+              - 'img "Tucked behind private grounds in Gilbert, this $5,999,000 estate feels more like a private resort than a residence. Set across 1.39 acres, the 7,850 square foot home is designed for both everyday living and full-scale entertaining, with six bedrooms, a detached guest casita, and expansive indoor spaces. What sets it apart is everything outside. A resort-style pool with a waterfall anchors the backyard, surrounded by a pickleball court, basketball trampoline, go-kart track, and mini putt course, creating a setting built for both kids and adults alike. Inside, a dedicated game room and a 12 car garage which adds another layer to the experience. A rare blend of space, privacy, and lifestyle in one of Arizona’s fastest-growing areas. Listed by @allyswopes Would you rather have this… or a Scottsdale estate? #gilbert #arizona #gokart #pickleball" [ref=e612]'
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carrossel"
+        - generic [ref=e615]:
+          - link "Ver mais posts" [ref=e617] [cursor=pointer]:
+            - /url: /luxury_listings/
+            - generic [ref=e618]: Ver mais posts
+          - separator [ref=e619]
+  - contentinfo [ref=e620]:
+    - generic [ref=e621]:
+      - generic [ref=e623]:
+        - link "Meta" [ref=e625] [cursor=pointer]:
+          - /url: https://about.meta.com/
+          - generic [ref=e626]: Meta
+        - link "Sobre" [ref=e628] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+          - generic [ref=e629]: Sobre
+        - link "Blog" [ref=e631] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+          - generic [ref=e632]: Blog
+        - link "Carreiras" [ref=e634] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+          - generic [ref=e635]: Carreiras
+        - link "Ajuda" [ref=e637] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+          - generic [ref=e638]: Ajuda
+        - link "API" [ref=e640] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+          - generic [ref=e641]: API
+        - link "Privacidade" [ref=e643] [cursor=pointer]:
+          - /url: /legal/privacy/
+          - generic [ref=e644]: Privacidade
+        - link "Termos" [ref=e646] [cursor=pointer]:
+          - /url: /legal/terms/
+          - generic [ref=e647]: Termos
+        - link "Localizações" [ref=e649] [cursor=pointer]:
+          - /url: /explore/locations/
+          - generic [ref=e650]: Localizações
+        - link "Instagram Lite" [ref=e652] [cursor=pointer]:
+          - /url: /web/lite/
+          - generic [ref=e653]: Instagram Lite
+        - link "Meta AI" [ref=e655] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+          - generic [ref=e656]: Meta AI
+        - link "Threads" [ref=e658] [cursor=pointer]:
+          - /url: https://www.threads.com/
+          - generic [ref=e659]: Threads
+        - link "Upload de contatos e não usuários" [ref=e661] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+          - generic [ref=e662]: Upload de contatos e não usuários
+        - link "Meta Verified" [ref=e664] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+          - generic [ref=e665]: Meta Verified
+      - generic [ref=e666]:
+        - generic [ref=e667] [cursor=pointer]:
+          - generic [ref=e668]:
+            - generic [ref=e669]: Português (Brasil)
+            - img "Ícone de seta para baixo" [ref=e672]
+          - combobox "Trocar idioma de exibição" [ref=e674]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English"
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)" [selected]
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=e676]: © 2026 Instagram from Meta

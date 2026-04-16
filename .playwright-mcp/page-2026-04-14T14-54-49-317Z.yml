@@ -1,0 +1,8 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - img "meular.jp" [ref=e3]
+    - generic [ref=e4]: www.meular.jp
+  - generic [ref=e7]:
+    - generic [ref=e8]: Quarto
+    - generic [ref=e9]: QUARTO PRINCIPAL
+    - generic [ref=e10]: Espaçoso, com closet e boa iluminação natural.

@@ -1,0 +1,31 @@
+name: "Post Casa — Carrossel de Imóveis"
+code: "imoveis-instagram"
+description: "Automatiza a publicação de imóveis para venda no Instagram @meular.jp em formato carrossel, a partir de fotos e dados fornecidos pelo usuário em uma pasta local."
+
+skills:
+  - image-creator
+  - instagram-publisher
+
+data:
+  - pipeline/data/research-brief.md
+  - pipeline/data/domain-framework.md
+  - pipeline/data/quality-criteria.md
+  - pipeline/data/output-examples.md
+  - pipeline/data/anti-patterns.md
+  - pipeline/data/tone-of-voice.md
+  - pipeline/data/visual-identity.md
+  - pipeline/data/template-reference.html
+
+pipeline:
+  steps:
+    - pipeline/steps/step-01-selecionar-imovel.md
+    - pipeline/steps/step-02-escrever-copy.md
+    - pipeline/steps/step-03-aprovar-conteudo.md
+    - pipeline/steps/step-04-criar-slides.md
+    - pipeline/steps/step-05-revisar-qualidade.md
+    - pipeline/steps/step-06-aprovar-publicacao.md
+    - pipeline/steps/step-07-publicar.md
+  checkpoints:
+    - step-01-selecionar-imovel
+    - step-03-aprovar-conteudo
+    - step-06-aprovar-publicacao
