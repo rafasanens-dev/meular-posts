@@ -1,9 +1,36 @@
 {
   "timezone": "Asia/Tokyo",
   "slots": [
-    { "day": "tuesday",  "hour": 12, "minute": 0 },
-    { "day": "thursday", "hour": 12, "minute": 0 },
-    { "day": "sunday",   "hour": 19, "minute": 0 }
+    {
+      "day": "tuesday",
+      "hour": 12,
+      "minute": 0
+    },
+    {
+      "day": "thursday",
+      "hour": 12,
+      "minute": 0
+    },
+    {
+      "day": "sunday",
+      "hour": 19,
+      "minute": 0
+    }
   ],
-  "scheduled": []
+  "scheduled": [
+    {
+      "postId": "nagoya-minato",
+      "scheduledUnixTs": 1776592800,
+      "scheduledJST": "domingo, 19/04/2026, 19:00 JST",
+      "caption": "Casa nova em Nagoya: 4 vagas, 230m² de terreno e Walk-in Clo",
+      "addedAt": "2026-04-17T16:48:34.409Z"
+    },
+    {
+      "postId": "tokoname-ogura",
+      "scheduledUnixTs": 1776740400,
+      "scheduledJST": "terça-feira, 21/04/2026, 12:00 JST",
+      "caption": "Casa nova em Tokoname com 3 vagas e 204m² de terreno! 🏡\n\nEm",
+      "addedAt": "2026-04-17T16:48:34.416Z"
+    }
+  ]
 }
