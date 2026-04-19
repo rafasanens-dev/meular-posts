@@ -1,4 +1,4 @@
-﻿{
+{
   "posts": [
     {
       "id": "komaki-ikenouchi",
@@ -79,8 +79,24 @@
       ],
       "status": "pending",
       "propertyFolder": "properties/Casas Agendadas/Nishio-Shi Isshiki-Cho Nakatozawa 2,180万円"
+    },
+    {
+      "id": "kariya-arai",
+      "scheduledAt": "2026-04-24T03:00:00.000Z",
+      "caption": "Casa nova em Kariya para quem quer morar em uma região valorizada, disputada e muito boa para o dia a dia! 🏠\n\nEm Arai-cho, Kariya-shi, esta casa nova entrega uma combinação muito boa de localização, praticidade e acabamento clean. Em uma área onde terreno costuma ser caro e concorrido, encontrar uma casa nova assim chama bastante atenção.\n\nAlém da planta 3LDK + S, ela oferece 2 vagas, sala integrada, cozinha moderna, banheira, quarto amplo no primeiro andar, dormitório com acesso à varanda e uma localização útil para a rotina.\n\nNa localização, ela também ajuda bastante:\n✅ Estação Koborie a 12 min a pé\n✅ Hoikuen a 3 min a pé\n✅ Shogakko a 12 min a pé\n✅ FamilyMart a 5 min a pé\n✅ Genky a 9 min a pé\n\n🏠 Casa Nova · 3LDK + S · 96m² construídos\n📐 115m² de terreno\n📍 Kariya, Aichi · Arai-cho\n💰 ¥36.900.000\na partir de ¥90.809/mês\n\n📩 Gostou dessa casa? Entre em contato hoje mesmo pelo número abaixo ou comente \"QUERO\" para receber mais opções bonitas como essa!\n📱 Fale com a gente pelo WhatsApp: +81 90-9922-1830 (Rafael)\n\n#meularjp #imoveisnojapo #casanojapo #aichi #kariya",
+      "slides": [
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-01.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-02.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-03.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-04.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-05.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-06.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-07.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-08.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-09.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/kariya-arai/slide-10.jpg"
+      ],
+      "status": "pending"
     }
   ]
 }
-
-

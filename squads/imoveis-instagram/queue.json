@@ -38,6 +38,13 @@
       "scheduledJST": "segunda-feira, 20/04/2026, 12:00 JST",
       "caption": "Casa nova térrea em Nishio com parcela que pode sair mais ba",
       "addedAt": "2026-04-19T15:32:11.638Z"
+    },
+    {
+      "postId": "kariya-arai",
+      "scheduledUnixTs": 1776999600,
+      "scheduledJST": "sexta-feira, 24/04/2026, 12:00 JST",
+      "caption": "Casa nova em Kariya para quem quer morar em uma região valor",
+      "addedAt": "2026-04-19T15:53:47.048Z"
     }
   ]
 }
