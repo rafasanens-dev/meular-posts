@@ -1,4 +1,4 @@
-{
+﻿{
   "posts": [
     {
       "id": "komaki-ikenouchi",
@@ -44,7 +44,7 @@
     },
     {
       "id": "tokoname-ogura",
-      "scheduledAt": "2026-04-21T03:00:00.000Z",
+      "scheduledAt": "2026-04-22T03:00:00.000Z",
       "caption": "Casa nova em Tokoname com 3 vagas e 204m² de terreno! 🏡\n\nEm Ogura-cho, Tokoname-shi, esta casa nova combina espaço interno bem distribuído, cozinha com bancada americana, ofurô completo e um terreno amplo para viver com mais liberdade no Japão.\n\nAlém do 4LDK, ela ainda traz concretagem pronta na área externa, boa iluminação natural, dormitórios com armários e certificação de longa vida útil com resistência sísmica nível 3.\n\nNa localização, também chama atenção pela praticidade do dia a dia:\n✅ Hoikuen a 162m\n✅ Shogakko a 1.100m\n✅ Chugakko a 1.500m\n✅ FamilyMart a 852m\n✅ Yamanaka a 1.215m\n✅ AEON Tokoname a 10 min de carro\n\n🏠 Casa Nova • 4LDK • 101m² construídos\n📐 204m² de terreno\n🚉 Tokoname, Aichi • 11 min a pé da estação Onomachi\n💰 ¥29.900.000\na partir de ¥92.800/mês\n\n📩 Gostou dessa casa? Entre em contato hoje mesmo pelo número abaixo ou comente \"GOSTEI\" para mais informações sobre essa ou outras casas disponíveis na região!\n📱 Fale com a gente pelo WhatsApp: +81 90-9922-1830 (Rafael)\n\n#meularjp #imoveisnojapo #casanojapo #aichi #tokoname",
       "slides": [
         "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/tokoname-ogura/slide-01.jpg",
@@ -58,7 +58,29 @@
         "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/tokoname-ogura/slide-09.jpg",
         "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/tokoname-ogura/slide-10.jpg"
       ],
-      "status": "pending"
+      "status": "pending",
+      "propertyFolder": "properties/Casas Agendadas/Tokoname-Shi Ogura-Cho (Casa-3) 2,990万円"
+    },
+    {
+      "id": "nishio-nakatozawa",
+      "scheduledAt": "2026-04-20T03:00:00.000Z",
+      "caption": "Casa nova térrea em Nishio com parcela que pode sair mais barata que muito aluguel e 226m² de terreno! 🏡\n\nEm Isshiki-cho Nakatozawa, Nishio-shi, esta casa nova é daquelas oportunidades que fazem muito sentido para quem quer sair do aluguel sem abrir mão de espaço, conforto e previsibilidade no mês.\n\nAlém da planta 4LDK, ela entrega casa térrea, sistema All Denka, 2 vagas concretadas, cozinha com bancada americana, ofurô completo e walk-in closet para deixar a rotina mais prática desde o primeiro dia.\n\nNa localização, também ajuda no dia a dia:\n✅ Shogakko a 1.400m\n✅ Chugakko a 4.000m\n✅ MaxValu a 20 min a pé\n✅ Bolão Nishio a 25 min a pé\n\n🏠 Casa Nova · 4LDK · 96m² construídos\n📐 226m² de terreno\n📍 Nishio, Aichi · Isshiki-cho Nakatozawa\n💰 ¥21.800.000\na partir de ¥53.648/mês\n\n📩 Gostou dessa casa? Entre em contato hoje mesmo pelo número abaixo ou comente \"GOSTEI\" para receber mais informações sobre essa e outras disponíveis na região!\n📱 Fale com a gente pelo WhatsApp: +81 90-9922-1830 (Rafael)\n\n#meularjp #imoveisnojapo #casanojapo #aichi #nishio",
+      "slides": [
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-01.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-02.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-03.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-04.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-05.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-06.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-07.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-08.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-09.jpg",
+        "https://raw.githubusercontent.com/rafasanens-dev/meular-posts/main/posts/nishio-nakatozawa/slide-10.jpg"
+      ],
+      "status": "pending",
+      "propertyFolder": "properties/Casas Agendadas/Nishio-Shi Isshiki-Cho Nakatozawa 2,180万円"
     }
   ]
 }
+
+
